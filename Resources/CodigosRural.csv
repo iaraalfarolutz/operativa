@@ -1,0 +1,147 @@
+plan,materia,nombre_de_
+95,101,Álgebra y Geometría(Plan 95)
+95,102,Análisis Matemático
+95,103,Análisis Matemático II (Elec.)
+95,108,Economía(Plan 95)
+95,111,Inglés  I
+95,121,Introducción a la Producción Agraria
+95,122,Producción Agraria I
+95,123,Instalaciones Agrarias(Plan 95)
+95,124,Análisis Matemático I(Plan 95)
+95,130,Fundamentos de la Administración(Plan 95 Mod.
+95,131,Contabilidad para la Administración(Plan 95 M
+95,132,Álgebra(Plan 95 Mod.)
+95,133,Instalaciones y Maquinarias Agrícolas(Plan 95
+95,134,Inglés A
+95,136,Inglés B
+95,171,Informática (Elec.)
+95,178,Introducción a la Informática (Elec.)
+95,179,Informática I (Elec.)
+95,184,Proyectar y Emprender(Elec.)
+95,204,Probabilidad y Estadística(Plan 95)
+95,212,Inglés  II
+95,217,Inglés C
+95,219,Inglés D
+95,224,Producción Agraria II
+95,225,Procesos Agroindustriales I
+95,226,Organización de Empresas(Plan 95)
+95,227,Procesos Agroindustriales II
+95,228,Maquinaria Agrícola(Plan 95)
+95,229,Economía de la Empresa Agraria
+95,230,Comercialización(Plan 95)
+95,231,Administración de Costos(Plan 95 Mod.)
+95,232,Gestión de la Empresa Agropecuaria(Plan 95 Mo
+95,233,Economía General(Plan 95 Mod.)
+95,234,Matemática Financiera(Plan 95 Mod.)
+95,261,Informática II (Elec.)
+95,321,Planificación de la Empresa Agropecuaria(Plan
+95,322,Estadística(Plan 95 Mod.)
+95,323,Comercialización I(Plan 95 Mod.)
+95,331,Organización Rural(Plan 95)
+95,332,Costos(Plan 95)
+95,333,Control de Gestión(Plan 95)
+95,334,Contabilidad(Plan 95)
+95,335,Investigación Operativa
+95,336,Financiación(Plan 95)
+95,337,Higiene y Seguridad
+95,338,Administración Financiera(Plan 95 Mod.)
+95,340,Control de Gestión de la Empresa Agropecuaria
+95,370,Comercialización II (Elec.)
+95,371,Tecnología de la  Alimentación y Nutrición An
+95,372,Sistemas Intensivos de Producción Animal (Ele
+95,373,Política Agropecuaria Argentina (Elec.)
+95,374,Economía Ecológica (Elec.)
+95,375,Gestión Rural (Elec.)
+95,376,Sanidad Vegetal (Elec.)
+95,377,Sociología Rural y Extensión (Elec.)
+95,378,Geografía Económica Argentina (Elec.)
+95,379,Ecología y Recursos Naturales (Elec.)
+95,380,Administración de Riego (Elec.)
+95,384,Impuestos y Sociedades (Elec.)
+95,409,Legislación
+95,410,Tecnología y Sociedad
+95,438,Evaluación de Proyectos(Plan 95)
+95,439,Planificación(Plan 95)
+95,440,Relaciones Laborales(Plan 95)
+95,450,Seminario Final
+95,451,Seminario Final  I
+95,452,Seminario Final II
+95,453,Formulación y Evaluación de Proyectos(Plan 95
+95,454,Comercialización II(Plan 95 Mod.)
+95,455,Política Agropecuaria y Organización Rural(Pl
+95,456,Gestión de Recursos Humanos(Plan 95 Mod.)
+95,471,Gestión de la Empresa Tambera (Elec.)
+95,472,Producción Lechera (Elec.)
+95,473,Investigación de Mercados (Elec.)
+95,474,Agronegocios (Elec.)
+95,475,Teoría  y Práctica Impositiva (Elec.)
+95,476,Legislación Laboral (Elec.)
+95,477,Tecnología del Uso del Suelo (Elec.)
+95,478,Cooperativismo y Empresas Agrarias (Elec.)
+95,479,Producciones Regionales (Elec.)
+95,480,Producciones Intensivas (Elec.)
+95,494,Análisis de Estados Contables (Elec.)
+95,496,Estrategia Comercial de Bienes Agropecuarios
+95,501,Laboratorio de Gestión I(Elec.)
+95,520,Sistemas Intensivos y Concentrados de Producc
+95,5011,Estrategia Comercial de bienes Agropecuarios(
+95,5012,Informatica II (elect.)
+2003,102,Análisis Matemático
+2003,103,Análisis Matemático II (Elec.)
+2003,111,Inglés  I
+2003,121,Introducción a la Producción Agraria
+2003,122,Producción Agraria I
+2003,130,Fundamentos de la Administración
+2003,131,Contabilidad para la Administración
+2003,132,Álgebra
+2003,133,Instalaciones y Maquinarias Agrícolas
+2003,134,Inglés A
+2003,136,Inglés B
+2003,171,Informática (Elec.)
+2003,178,Introducción a la Informática(Elec.)
+2003,179,Informática I (Elec.)
+2003,180,Proyectar y Emprender(Elec.)
+2003,212,Inglés  II
+2003,217,Inglés C
+2003,219,Inglés D
+2003,224,Producción Agraria II
+2003,225,Procesos Agroindustriales I
+2003,227,Procesos Agroindustriales II
+2003,229,Economía de la Empresa Agraria
+2003,231,Administración de Costos
+2003,232,Gestión de la Empresa Agropecuaria
+2003,233,Economía General
+2003,234,Matemática Financiera
+2003,261,Informática II (Elec.)
+2003,321,Planificación de la Empresa Agropecuaria
+2003,322,Estadística
+2003,323,Comercialización I
+2003,335,Investigación Operativa
+2003,337,Higiene y Seguridad
+2003,338,Administración Financiera
+2003,340,Control de Gestión de la Empresa Agropecuaria
+2003,370,Comercialización II (Elec.)
+2003,373,Política Agropecuaria Argentina (Elec.)
+2003,374,Economía Ecológica (Elec.)
+2003,376,Sanidad Vegetal (Elec.)
+2003,377,Sociología Rural y Extensión (Elec.)
+2003,378,Geografía Económica Argentina (Elec.)
+2003,380,Administración de Riego (Elec.)
+2003,384,Impuestos y Sociedades (Elec.)
+2003,409,Legislación
+2003,410,Tecnología y Sociedad
+2003,450,Seminario Final
+2003,453,Formulación y Evaluación de Proyectos
+2003,454,Comercialización II
+2003,455,Política Agropecuaria y Organización Rural
+2003,456,Gestión de Recursos Humanos
+2003,471,Gestión de la Empresa Tambera (Elec.)
+2003,472,Producción Lechera (Elec.)
+2003,474,Agronegocios (Elec.)
+2003,477,Tecnología del Uso del Suelo (Elec.)
+2003,478,Cooperativismo y Empresas Agrarias (Elec.)
+2003,479,Producciones Regionales (Elec.)
+2003,480,Producciones Intensivas (Elec.)
+2003,494,Análisis de Estados Contables(Elec.)
+2003,496,Estrategia Comercial de Bienes Agropecuarios
+2003,501,Laboratorio de Gestión I(Elec.)

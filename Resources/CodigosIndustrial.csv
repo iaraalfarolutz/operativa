@@ -1,0 +1,366 @@
+plan,materia,nombre_de_
+95,101,Álgebra y Geometría Analítica
+95,102,Análisis Matemático I
+95,105,Física I
+95,107,Química General
+95,110,Ingeniería y Sociedad
+95,112,
+95,115,Sistemas de Representación
+95,118,Taller de Idioma
+95,121,Ingeniería Industrial I
+95,122,Pensamiento Sistémico (Plan 95. Mod.)
+95,124,Diseño Industrial
+95,125,Informática I
+95,131,Idioma Inglés - Nivel Elemental
+95,203,Análisis Matemático II
+95,204,Probabilidad y Estadística
+95,206,Física II
+95,208,Economía General
+95,211,Inglés Técnico I
+95,221,Administración General (Plan 95.Mod.)
+95,222,Ingeniería Industrial II
+95,226,Conocimiento de Materiales
+95,227,Informática II
+95,232,Idioma Inglés - Nivel Inferior
+95,309,Legislación
+95,312,Inglés Técnico II
+95,322,
+95,323,Ingeniería Industrial III
+95,324,Termodinámica y Máquinas Térmicas(Plan 95 Mod
+95,325,Estática y Resistencia de Materiales(Plan 95
+95,326,Electrotecnia y Máquinas Eléctricas(Plan 95 M
+95,328,Investigación Operativa
+95,329,Estudio del Trabajo
+95,330,Costos y Presupuestos
+95,331,Comercialización
+95,332,Economía de la Empresa
+95,333,Idioma Inglés - Nivel Intermedio
+95,342,Sistemas Inteligentes
+95,343,Fabricación Flexible
+95,383,Innovación y Emprendedorismo(Elec.)
+95,427,Idioma Inglés-Nivel Superior
+95,433,Planificación y Control de la Producción
+95,434,Relaciones Industriales
+95,435,"Seguridad, Higiene e Ingeniería Ambiental"
+95,436,Evaluación  de  Proyectos
+95,437,Ingeniería de Calidad
+95,438,Procesos Industriales
+95,439,Control de Gestión
+95,441,Ingeniería en Calidad(Plan 95 Mod.)
+95,444,Manejo de los Materiales
+95,445,Distribución de Plantas
+95,446,Manejo de Materiales y Distribución de Planta
+95,447,Instalaciones Industriales(Plan 95 Mod.)
+95,519,Práctica Supervisada
+95,533,Diseño de Producto
+95,540,Comercio Exterior
+95,541,Política Económica
+95,546,Mantenimiento
+95,550,Proyecto Final
+95,570,Mercado de Capitales y Selección de Inversion
+95,571,Dirección General de Empresas (Elec.)
+95,600,Mediciones y Ensayos Industriales (Elec.)
+95,601,Mantenimiento Industrial (Elec.)
+95,602,Termodinámica (Elec.)
+95,603,Conducción de Recursos Humanos (Elec.)
+95,608,Logística Industrial (Elec.)
+95,609,Ciencias del Comportamiento Humano (Elec.)
+95,613,Análisis Numérico y Cálculo Avanzado (Elec.)
+95,614,Logística y Control de Producción (Elec.)
+95,615,Agroindustrias (Elec.)
+95,616,Estrategias de Desarrollo Nacional y Regional
+95,643,Inglés I
+95,644,Inglés II
+95,648,Sistemas Productivos(Elec.)
+95,649,Industria Frigorífica(Elec.)
+95,650,Industria Láctea(Elec.)
+95,687,Automatización Agroindustrial(Elec.)
+95,688,Proyectar y Emprender(Elec.)
+95,5013,Agroindustrias(electiva)
+95,5014,Estrategias de Desarrollo Nacional y Regional
+95,5015,Logistica y Control de la Produccion
+95,5016,Analisis Numerico y Calculo Avanzado (electiv
+95,5018,Sistemas Productivos(electiva)
+95,5019,Industria Frigorifica (electiva)
+95,5022,Industria Láctea (electiva)
+2003,101,Álgebra y Geometría Analítica
+2003,102,Análisis Matemático I
+2003,105,Física I
+2003,107,Química General
+2003,110,Ingeniería y Sociedad
+2003,112,
+2003,114,
+2003,115,Sistemas de Representación
+2003,118,
+2003,121,
+2003,122,Pensamiento Sistémico
+2003,124,
+2003,125,Informática I
+2003,131,Idioma Inglés - Nivel Elemental
+2003,203,Análisis Matemático II
+2003,204,Probabilidad y Estadística
+2003,206,Física II
+2003,208,Economía General
+2003,211,Inglés Técnico I
+2003,221,Administración General
+2003,222,
+2003,226,Conocimiento de Materiales
+2003,227,Informática II
+2003,232,Idioma Inglés - Nivel Inferior
+2003,309,Legislación
+2003,312,Inglés Técnico II
+2003,322,Análisis Numérico y Cálculo Avanzado
+2003,323,
+2003,324,Termodinámica y Máquinas Térmicas
+2003,325,Estática y Resistencia de Materiales
+2003,326,Electrotecnia y Máquinas Eléctricas
+2003,328,Investigación Operativa
+2003,329,Estudio del Trabajo
+2003,330,Costos y Presupuestos
+2003,331,Comercialización
+2003,332,Economía de la Empresa
+2003,333,Idioma Inglés - Nivel Intermedio
+2003,342,
+2003,343,
+2003,344,
+2003,370,Análisis Numérico y Cálculo Avanzado (Elec.)
+2003,383,
+2003,427,Idioma Inglés-Nivel Superior
+2003,431,
+2003,432,
+2003,433,Planificación y Control de la Producción
+2003,434,Relaciones Industriales
+2003,435,"Seguridad, Higiene e Ingeniería Ambiental"
+2003,436,Evaluación  de  Proyectos
+2003,437,
+2003,438,Procesos Industriales
+2003,439,Control de Gestión
+2003,441,Ingeniería en Calidad
+2003,444,
+2003,445,
+2003,446,Manejo de Materiales y Distribución de Planta
+2003,447,Instalaciones Industriales
+2003,448,Instalaciones Industriales (Ord. 1114)
+2003,460,
+2003,461,
+2003,462,
+2003,519,Práctica Supervisada
+2003,533,Diseño de Producto
+2003,536,
+2003,537,
+2003,538,
+2003,539,Idioma Inglés-Nivel Avanzado
+2003,540,Comercio Exterior
+2003,541,
+2003,542,
+2003,543,
+2003,544,
+2003,545,
+2003,546,Mantenimiento
+2003,547,Manejo de Materiales y Distribución de Planta
+2003,549,
+2003,550,Proyecto Final
+2003,551,
+2003,552,
+2003,553,
+2003,554,
+2003,555,
+2003,556,
+2003,557,
+2003,558,
+2003,567,
+2003,568,
+2003,569,
+2003,570,
+2003,571,
+2003,572,
+2003,573,
+2003,574,
+2003,575,
+2003,576,
+2003,577,
+2003,578,
+2003,579,
+2003,580,
+2003,581,
+2003,582,
+2003,583,
+2003,584,
+2003,585,
+2003,586,
+2003,587,
+2003,588,
+2003,598,
+2003,599,
+2003,600,
+2003,601,
+2003,602,
+2003,603,
+2003,604,
+2003,609,Logística y Control de Producción (Elec.)
+2003,610,Agroindustrias (Elec.)
+2003,611,Estrategias de Desarrollo Nacional y Regional
+2003,617,Ciencia de los Materiales
+2003,618,Mecánica de los Fluidos
+2003,619,Mecánica y Mecanismos
+2003,637,Administración de Personal(Elec.)
+2003,697,Inglés I
+2003,698,Inglés II
+2003,700,Sistemas Productivos(Elec.)
+2003,705,Industria Frigorífica(Elec.)
+2003,706,Industria Láctea(Elec.)
+2003,708,Embalaje y Almacenamiento(Elec.)
+2003,719,Automatización Agroindustrial(Elec.)
+2003,720,Proyectar y Emprender(Elec.)
+2003,721,Introducción a la Investigación Científica(El
+2003,748,Automatización y Robótica Industrial (Elec.)
+2003,901,
+2003,902,
+2003,903,
+2003,904,
+2003,905,
+2003,906,
+2003,907,
+2003,908,
+2003,909,
+2003,910,
+2003,5020,Industria Frigorifica (electiva)
+2003,5023,Industria Láctea (electiva)
+2007,101,Álgebra y Geometría Analítica
+2007,102,Análisis Matemático I
+2007,105,Física I
+2007,107,Química General
+2007,110,Ingeniería y Sociedad
+2007,115,Sistemas de Representación
+2007,122,Pensamiento Sistémico
+2007,125,Informática I
+2007,131,Idioma Inglés - Nivel Elemental
+2007,134,Inglés A
+2007,136,Inglés B
+2007,160,Comunicación Linguística (Elec.)
+2007,203,Análisis Matemático II
+2007,204,Probabilidad y Estadística
+2007,206,Física II
+2007,208,Economía General
+2007,217,Inglés C
+2007,219,Inglés D
+2007,221,Administración General
+2007,227,Informática II
+2007,232,Idioma Inglés - Nivel Inferior
+2007,309,Legislación
+2007,322,Análisis Numérico y Cálculo Avanzado
+2007,324,Termodinámica y Máquinas Térmicas
+2007,325,Estática y Resistencia de Materiales
+2007,326,Electrotecnia y Máquinas Eléctricas
+2007,328,Investigación Operativa
+2007,329,Estudio del Trabajo
+2007,330,Costos y Presupuestos
+2007,331,Comercialización
+2007,332,Economía de la Empresa
+2007,333,Idioma Inglés - Nivel Intermedio
+2007,427,Idioma Inglés-Nivel Superior
+2007,433,Planificación y Control de la Producción
+2007,434,Relaciones Industriales
+2007,435,"Seguridad, Higiene e Ingeniería Ambiental"
+2007,436,Evaluación  de  Proyectos
+2007,438,Procesos Industriales
+2007,439,Control de Gestión
+2007,441,Ingeniería en Calidad
+2007,448,Instalaciones Industriales
+2007,519,Práctica Supervisada
+2007,533,Diseño de Producto
+2007,534,Gerenciamiento Estratégico (Elec.)
+2007,535,Sistemas de Soporte y Decisión (Elec.)
+2007,539,Idioma Inglés-Nivel Avanzado
+2007,540,Comercio Exterior
+2007,546,Mantenimiento
+2007,547,Manejo de Materiales y Distribución de Planta
+2007,550,Proyecto Final
+2007,559,Gestión de PyMes (Elec.)
+2007,560,Organización y Administración de empresas (El
+2007,561,Logística Industrial (Elec.)
+2007,562,Instrumentos y Control Automático (Elec.)
+2007,563,Proyectar y Emprender(Elec.)
+2007,564,Instrumentación y Automatización (Elec.)
+2007,565,Gestión PyME (Elec.)
+2007,566,Gestión Ambiental (Elec.)
+2007,567,Automatización Agroindustrial(Elec.)
+2007,589,Política Económica (Elec.)
+2007,590,Industrias Regionales (Elec.)
+2007,591,Saneamiento y Medio Ambiente (Elec.)
+2007,592,Automatización y Control Industrial (Elec.)
+2007,593,Simulación y Optimización (Elec.)
+2007,594,Ingeniería y Diseño Asistido por Computadora
+2007,595,Logística (Elec.)
+2007,596,Seminario Profesional (Elec.)
+2007,597,Ciencias del Comportamiento Humano (Elec.)
+2007,606,Dinámica de Sistemas (Elec.)
+2007,607,Sistema de Producción y Logística Empresaria
+2007,608,Gestión de Mantenimiento (Elec.)
+2007,609,Logística y Control de Producción (Elec.)
+2007,610,Agroindustrias (Elec.)
+2007,611,Estrategias de Desarrollo Nacional y Regional
+2007,612,Seminario-Taller INGeniosamente 2003 (Elec.)
+2007,614,Aire Acondicionado y Refrigeración (Elec.)
+2007,615,Calidad Aplicada (Elec.)
+2007,616,Automatización y Control (Elec.)
+2007,617,Ciencia de los Materiales
+2007,618,Mecánica de los Fluidos
+2007,619,Mecánica y Mecanismos
+2007,620,Diseño de Productos (Elec.)
+2007,621,Tratamiento de Efluentes (Elec.)
+2007,622,Ergonomía y Actividades Laborales (Elec.)
+2007,623,Logística Empresaria (Elec.)
+2007,624,Política de Calidad (Elec.)
+2007,625,Máquinas Herramientas (Elec.)
+2007,626,Software de Aplicación en Problemas Mecánicos
+2007,627,Automatización Industrial (Elec.)
+2007,628,Máquinas de Elevación y Transporte (Elec.)
+2007,629,Marketing Industrial (Elec.)
+2007,630,Simulación (Elec.)
+2007,631,Ergonomía (Elec.)
+2007,632,Ingeniería Económica(Elec.)
+2007,633,Automatismos Industriales(Elec.)
+2007,634,Inglés Avanzado(Elec.)
+2007,635,Planificación del Transporte y Logística(Elec
+2007,636,"Identificación, Formulación y Liquidación de"
+2007,637,Administración de Personal(Elec.)
+2007,638,Automatización en Logística(Elec.)
+2007,640,Finanzas(Elec.)
+2007,641,Fabricación Flexible y Sistemas Inteligentes(
+2007,642,Sociología de las Instituciones(Elec.)
+2007,643,Fabricación Flexible(Elec.)
+2007,644,Gestión Empresarial(Elec.)
+2007,645,Auditoría Operativa(Elec.)
+2007,646,Sistemas Inteligentes(Elec.)
+2007,648,Finanzas y Control Empresario(Elec.)
+2007,650,Refrigeración y Aire Acondicionado Industrial
+2007,651,Gerenciamiento(Elec.)
+2007,660,Organización y Gestión de un Servicio de Prev
+2007,661,Sistemas de Información para Manufactura(Elec
+2007,662,Sistemas Integrados de Manufactura(Elec.)
+2007,663,Sistemas de Inventario y Distribución(Elect.)
+2007,684,Epistemología y Metodología de la Investigaci
+2007,685,Automatización y Robotización(Elec.)
+2007,686,Emprendedorismo(Elec.)
+2007,687,Sistemas Integrados de Gestión(Elec.)
+2007,688,Gestión de Servicios(Elec.)
+2007,689,Investigación Tecnológica(Elec.)
+2007,690,Implementación de Sistemas de Gestión ISO(Ele
+2007,691,Automación Industrial(Elec.)
+2007,692,Decisiones en Escenarios Complejos(Elec.)
+2007,696,Idioma Extranjero Avanzado(Elec.)
+2007,697,Inglés I
+2007,698,Inglés II
+2007,699,Sociología de la Empresa(Elec.)
+2007,704,Sistemas Productivos(Elec.)
+2007,707,Industria Frigorífica(Elec.)
+2007,708,Industria Láctea(Elec.)
+2007,712,Introducción a la Investigación Científica(El
+2007,730,Gestión y Desarrollo Territorial (Elec.)
+2007,739,Formación en Áreas Ingenieriles en el Extranj
+2007,748,Automatización y Robótica Industrial (Elec.)
+2007,766,Introducción a las Energías Renovables (Elec.
+2007,767,Dirección de Proyectos (Elec.)
+2007,5021,Industria Frigorifica (electiva)
+2007,5024,Industria Láctea (electiva)
