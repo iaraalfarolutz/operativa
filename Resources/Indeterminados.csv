@@ -11,7 +11,6 @@
 51,81,15-Mar-99,6,7665,2132,Higiene y Seguridad Industrial,1994.0,Indeterminado,Ndeah
 52,81,18-Mar-98,4,7681,2129,Legislación,1994.0,Indeterminado,Ndeah
 53,81,15-May-98,6,7681,2131,Control de Gestión,1994.0,Indeterminado,Ndeah
-399,84,13-May-98,4,6642,228,Maquinaria Agrícola(Plan 95),1991.0,Indeterminado,Ndeah
 446,81,03-Mar-00,2,6866,2118,Investigación Operativa,1992.0,Indeterminado,Ndeah
 447,81,17-Mar-00,4,6866,2118,Investigación Operativa,1992.0,Indeterminado,Ndeah
 448,81,20-Oct-99,5,6866,2122,Computación I,1992.0,Indeterminado,Ndeah
@@ -40,12 +39,6 @@
 488,81,11-May-98,4,7216,2130,Relaciones Industriales,1993.0,Indeterminado,Ndeah
 489,81,16-Mar-98,7,7216,2131,Control de Gestión,1993.0,Indeterminado,Ndeah
 490,81,11-May-98,9,7216,2132,Higiene y Seguridad Industrial,1993.0,Indeterminado,Ndeah
-698,81,19-Jul-96,6,8271,121,Análisis Matemático,2001.0,Indeterminado,Ndeah
-699,81,19-Jul-96,8,8271,122,Química,2001.0,Indeterminado,Ndeah
-700,81,17-Jul-96,6,8271,123,Álgebra,2001.0,Indeterminado,Ndeah
-701,81,09-Dec-96,8,8271,124,Física,2001.0,Indeterminado,Ndeah
-702,81,18-Dec-96,2,8271,127,Informática I,2001.0,Indeterminado,Ndeah
-703,81,14-May-97,8,8271,127,Informática I,2001.0,Indeterminado,Ndeah
 1214,84,05-Aug-98,2,8746,121,Introducción a la Producción Agraria,1996.0,Indeterminado,Ndeah
 1215,84,05-Aug-98,2,8746,121,Introducción a la Producción Agraria,1996.0,Indeterminado,Ndeah
 1216,84,07-Oct-98,4,8746,121,Introducción a la Producción Agraria,1996.0,Indeterminado,Ndeah
@@ -53,116 +46,28 @@
 1519,81,17-Jul-98,2,9015,124,Física,1996.0,Indeterminado,Ndeah
 1520,81,07-Aug-98,6,9015,124,Física,1996.0,Indeterminado,Ndeah
 1521,81,07-Aug-98,6,9015,124,Física,1996.0,Indeterminado,Ndeah
-1617,81,15-Jul-98,2,9070,123,Álgebra,1997.0,Indeterminado,Ndeah
-1618,81,05-Aug-98,7,9070,123,Álgebra,1997.0,Indeterminado,Ndeah
 1767,84,20-Mar-98,5,9174,121,Introducción a la Producción Agraria,1997.0,Indeterminado,Ndeah
-2032,81,05-Aug-98,2,9433,123,Álgebra,1998.0,Indeterminado,Ndeah
-2087,81,07-Oct-98,4,9464,121,Análisis Matemático,1998.0,Indeterminado,Ndeah
-2088,81,05-Aug-98,5,9464,122,Química,1998.0,Indeterminado,Ndeah
-2089,81,05-Aug-98,5,9464,122,Química,1998.0,Indeterminado,Ndeah
-2090,81,15-Jul-98,6,9464,123,Álgebra,1998.0,Indeterminado,Ndeah
-2091,81,09-Dec-98,2,9464,127,Informática I,1998.0,Indeterminado,Ndeah
-2092,81,16-Dec-98,2,9464,127,Informática I,1998.0,Indeterminado,Ndeah
-2093,81,07-Oct-98,5,9480,121,Análisis Matemático,1998.0,Indeterminado,Ndeah
-2094,81,12-May-99,8,9480,122,Química,1998.0,Indeterminado,Ndeah
-2096,81,03-Mar-99,5,9480,123,Álgebra,1998.0,Indeterminado,Ndeah
-2097,81,05-Mar-99,6,9480,124,Física,1998.0,Indeterminado,Ndeah
-2098,81,14-Jul-99,5,9480,127,Informática I,1998.0,Indeterminado,Ndeah
-2099,81,09-Dec-99,4,9480,209,Legislación,1998.0,Indeterminado,Ndeah
-2100,84,15-Jul-98,8,9495,101,Álgebra y Geometría(Plan 95),1998.0,Indeterminado,Ndeah
-2101,84,07-Oct-98,5,9495,102,Análisis Matemático,1998.0,Indeterminado,Ndeah
-2102,84,15-Jul-98,6,9495,121,Introducción a la Producción Agraria,1998.0,Indeterminado,Ndeah
-2103,84,17-Feb-99,6,9495,122,Producción Agraria I,1998.0,Indeterminado,Ndeah
-2105,84,15-Mar-00,7,9495,123,Instalaciones Agrarias(Plan 95),1998.0,Indeterminado,Ndeah
-2206,84,05-Aug-98,2,9576,101,Álgebra y Geometría(Plan 95),1998.0,Indeterminado,Ndeah
-2207,84,07-Oct-98,4,9576,101,Álgebra y Geometría(Plan 95),1998.0,Indeterminado,Ndeah
-2208,84,03-Mar-99,5,9576,102,Análisis Matemático,1998.0,Indeterminado,Ndeah
-2210,84,07-Oct-98,4,9576,121,Introducción a la Producción Agraria,1998.0,Indeterminado,Ndeah
-2212,84,06-Aug-99,5,9576,122,Producción Agraria I,1998.0,Indeterminado,Ndeah
-2213,84,12-May-99,4,9576,123,Instalaciones Agrarias(Plan 95),1998.0,Indeterminado,Ndeah
 2256,84,15-Jul-98,5,9593,101,Álgebra y Geometría(Plan 95),1998.0,Indeterminado,Ndeah
 2258,84,15-Jul-98,7,9593,121,Introducción a la Producción Agraria,1998.0,Indeterminado,Ndeah
 2272,84,09-Dec-98,5,9626,101,Álgebra y Geometría(Plan 95),1998.0,Indeterminado,Ndeah
 2273,84,15-Jul-98,6,9626,121,Introducción a la Producción Agraria,1998.0,Indeterminado,Ndeah
 2346,84,07-Oct-98,7,9665,121,Introducción a la Producción Agraria,1998.0,Indeterminado,Ndeah
 2347,84,17-Feb-99,4,9665,122,Producción Agraria I,1998.0,Indeterminado,Ndeah
-2778,84,12-Mar-01,4,9901,101,Álgebra y Geometría(Plan 95),1999.0,Indeterminado,Ndeah
-2783,84,06-Dec-99,4,9901,111,Inglés  I,1999.0,Indeterminado,Ndeah
-2784,84,20-Oct-99,6,9901,121,Introducción a la Producción Agraria,1999.0,Indeterminado,Ndeah
-2786,84,15-Dec-00,2,9901,122,Producción Agraria I,1999.0,Indeterminado,Ndeah
-2787,84,02-Mar-01,6,9901,122,Producción Agraria I,1999.0,Indeterminado,Ndeah
-2788,84,01-Mar-00,4,9901,123,Instalaciones Agrarias(Plan 95),1999.0,Indeterminado,Ndeah
-2806,84,04-Aug-99,5,9932,121,Introducción a la Producción Agraria,1999.0,Indeterminado,Ndeah
-2807,84,01-Mar-00,5,9932,123,Instalaciones Agrarias(Plan 95),1999.0,Indeterminado,Ndeah
 3044,32,03-Dec-99,10,10084,122,Biología General,1999.0,Indeterminado,Ndeah
 3045,32,20-Oct-99,9,10084,124,Química General,1999.0,Indeterminado,Ndeah
-3088,32,02-Aug-02,4,10134,121,Industrias Alimentarias I,2002.0,Indeterminado,Ndeah
-3090,32,06-May-02,2,10134,122,Biología General,2002.0,Indeterminado,Ndeah
-3092,32,05-May-03,4,10134,122,Biología General,2002.0,Indeterminado,Ndeah
-3093,32,08-Aug-01,7,10134,124,Química General,2002.0,Indeterminado,Ndeah
-3095,32,10-Dec-01,4,10134,125,Economía General,2002.0,Indeterminado,Ndeah
-3097,32,14-Jul-03,3,10134,127,Química Inorgánica,2002.0,Indeterminado,Ndeah
-3100,32,09-Oct-02,7,10134,230,Legislación Sanitaria,2002.0,Indeterminado,Ndeah
-3104,32,15-Dec-00,7,10150,121,Industrias Alimentarias I,1999.0,Indeterminado,Ndeah
-3105,32,06-Aug-99,7,10150,123,Matemática General,1999.0,Indeterminado,Ndeah
-3107,32,04-Dec-00,9,10150,124,Química General,1999.0,Indeterminado,Ndeah
-3108,32,06-Dec-00,6,10150,127,Química Inorgánica,1999.0,Indeterminado,Ndeah
-3109,32,03-Dec-99,5,10165,121,Industrias Alimentarias I,1999.0,Indeterminado,Ndeah
-3110,32,10-Dec-99,6,10165,123,Matemática General,1999.0,Indeterminado,Ndeah
-3111,32,20-Oct-99,7,10165,124,Química General,1999.0,Indeterminado,Ndeah
-3113,32,10-May-00,4,10165,127,Química Inorgánica,1999.0,Indeterminado,Ndeah
-3168,32,03-Dec-99,9,10231,121,Industrias Alimentarias I,1999.0,Indeterminado,Ndeah
-3169,32,02-Aug-99,9,10231,122,Biología General,1999.0,Indeterminado,Ndeah
-3170,32,02-Aug-99,9,10231,122,Biología General,1999.0,Indeterminado,Ndeah
-3173,32,06-Aug-99,5,10231,123,Matemática General,1999.0,Indeterminado,Ndeah
-3174,32,06-Aug-99,5,10231,123,Matemática General,1999.0,Indeterminado,Ndeah
-3176,32,02-Aug-00,8,10231,124,Química General,1999.0,Indeterminado,Ndeah
-3181,32,15-Mar-00,8,10231,127,Química Inorgánica,1999.0,Indeterminado,Ndeah
 3275,32,17-Dec-99,5,10343,121,Industrias Alimentarias I,1999.0,Indeterminado,Ndeah
 3276,32,20-Oct-99,2,10343,124,Química General,1999.0,Indeterminado,Ndeah
-3277,32,10-Dec-99,6,10351,121,Industrias Alimentarias I,1999.0,Indeterminado,Ndeah
-3278,32,13-Dec-00,4,10351,122,Biología General,1999.0,Indeterminado,Ndeah
-3279,32,07-Dec-00,4,10351,123,Matemática General,1999.0,Indeterminado,Ndeah
-3280,32,09-Dec-99,2,10351,124,Química General,1999.0,Indeterminado,Ndeah
-3283,32,12-Mar-01,5,10351,124,Química General,1999.0,Indeterminado,Ndeah
-3285,32,29-Nov-00,7,10351,230,Legislación Sanitaria,1999.0,Indeterminado,Ndeah
 3388,32,02-Aug-99,4,10424,122,Biología General,1999.0,Indeterminado,Ndeah
-3409,32,02-Aug-99,5,10455,122,Biología General,1999.0,Indeterminado,Ndeah
-3410,32,16-Jul-99,4,10455,123,Matemática General,1999.0,Indeterminado,Ndeah
-3415,32,02-Aug-99,4,10463,122,Biología General,1999.0,Indeterminado,Ndeah
-3416,32,16-Jul-99,7,10463,123,Matemática General,1999.0,Indeterminado,Ndeah
-3417,32,16-Jul-99,7,10463,123,Matemática General,1999.0,Indeterminado,Ndeah
-3418,32,04-Aug-99,9,10463,124,Química General,1999.0,Indeterminado,Ndeah
-3419,32,04-Aug-99,9,10463,124,Química General,1999.0,Indeterminado,Ndeah
-3420,32,28-Feb-01,4,10463,127,Química Inorgánica,1999.0,Indeterminado,Ndeah
 3538,32,17-Dec-99,7,10591,121,Industrias Alimentarias I,1999.0,Indeterminado,Ndeah
 3539,32,02-Aug-99,4,10591,122,Biología General,1999.0,Indeterminado,Ndeah
-3540,32,02-Aug-99,5,10610,122,Biología General,1999.0,Indeterminado,Ndeah
-3541,32,02-Aug-99,5,10610,122,Biología General,1999.0,Indeterminado,Ndeah
-3542,32,06-Aug-99,2,10610,123,Matemática General,1999.0,Indeterminado,Ndeah
-3543,32,06-Aug-99,2,10610,123,Matemática General,1999.0,Indeterminado,Ndeah
-3544,32,17-Dec-99,6,10625,121,Industrias Alimentarias I,1999.0,Indeterminado,Ndeah
-3545,32,02-Aug-99,3,10625,122,Biología General,1999.0,Indeterminado,Ndeah
-3546,32,18-Oct-99,5,10625,122,Biología General,1999.0,Indeterminado,Ndeah
-3547,32,06-Aug-99,2,10625,123,Matemática General,1999.0,Indeterminado,Ndeah
-3548,32,22-Oct-99,6,10625,123,Matemática General,1999.0,Indeterminado,Ndeah
-3551,32,08-Aug-01,4,10625,124,Química General,1999.0,Indeterminado,Ndeah
-3552,32,10-Dec-01,4,10625,125,Economía General,1999.0,Indeterminado,Ndeah
-3553,32,15-Dec-99,2,10625,127,Química Inorgánica,1999.0,Indeterminado,Ndeah
-3555,32,09-Oct-02,5,10625,230,Legislación Sanitaria,1999.0,Indeterminado,Ndeah
 3609,84,10-Dec-99,5,10695,121,Introducción a la Producción Agraria,1999.0,Indeterminado,Ndeah
 3638,32,16-Mar-01,8,10714,121,Industrias Alimentarias I,2000.0,Indeterminado,Ndeah
 3641,32,12-Mar-01,8,10714,124,Química General,2000.0,Indeterminado,Ndeah
 3695,32,15-Dec-00,8,10776,121,Industrias Alimentarias I,2000.0,Indeterminado,Ndeah
-3755,34,27-Nov-00,5,10896,111,Inglés I,2000.0,Indeterminado,Ndeah
-3761,34,01-Dec-00,9,10896,128,Metodología de la Investigación,2000.0,Indeterminado,Ndeah
 3822,34,14-Mar-01,2,10962,121,Programación I,2000.0,Indeterminado,Ndeah
 3828,34,18-Jul-01,6,10962,232,Organización Empresarial,2000.0,Indeterminado,Ndeah
 4019,84,10-Jul-00,5,11111,101,Álgebra y Geometría(Plan 95),2000.0,Indeterminado,Ndeah
 4020,84,04-Aug-00,6,11111,102,Análisis Matemático,2000.0,Indeterminado,Ndeah
-4140,34,05-Aug-02,0,11150,123,Matemática,2000.0,Indeterminado,Ndeah
-4141,84,31-Jul-00,4,11150,101,Álgebra y Geometría(Plan 95),2000.0,Indeterminado,Ndeah
-4142,84,04-Aug-00,2,11150,121,Introducción a la Producción Agraria,2000.0,Indeterminado,Ndeah
 4165,84,31-Jul-00,4,11181,101,Álgebra y Geometría(Plan 95),2000.0,Indeterminado,Ndeah
 4168,84,02-Oct-00,5,11200,101,Álgebra y Geometría(Plan 95),2000.0,Indeterminado,Ndeah
 4169,84,14-Jul-00,2,11200,121,Introducción a la Producción Agraria,2000.0,Indeterminado,Ndeah
@@ -173,48 +78,9 @@
 4566,84,06-Oct-00,5,11320,121,Introducción a la Producción Agraria,2000.0,Indeterminado,Ndeah
 4567,84,11-May-01,2,11320,122,Producción Agraria I,2000.0,Indeterminado,Ndeah
 4568,84,20-Jul-01,2,11320,122,Producción Agraria I,2000.0,Indeterminado,Ndeah
-4676,81,02-Aug-00,9,11366,122,Química,2000.0,Indeterminado,Ndeah
-4677,81,10-Jul-00,8,11366,123,Álgebra,2000.0,Indeterminado,Ndeah
 4678,81,04-Aug-00,2,11374,121,Análisis Matemático,2000.0,Indeterminado,Ndeah
 4684,81,06-Dec-00,5,11374,127,Informática I,2000.0,Indeterminado,Ndeah
-4768,34,16-Dec-02,2,11416,111,Inglés I,2000.0,Indeterminado,Ndeah
-4770,34,10-Oct-02,2,11416,121,Programación I,2000.0,Indeterminado,Ndeah
-4771,34,12-Dec-02,2,11416,121,Programación I,2000.0,Indeterminado,Ndeah
-4773,34,10-Jul-02,5,11416,124,Laboratorio de Computación I,2000.0,Indeterminado,Ndeah
-4777,81,31-Jul-00,2,11424,123,Álgebra,2000.0,Indeterminado,Ndeah
-4988,34,06-Aug-01,6,11513,111,Inglés I,2001.0,Indeterminado,Ndeah
-4989,34,11-Feb-02,2,11513,112,Inglés II,2001.0,Indeterminado,Ndeah
-4990,34,25-Feb-02,6,11513,112,Inglés II,2001.0,Indeterminado,Ndeah
-4991,34,08-Aug-01,6,11513,121,Programación I,2001.0,Indeterminado,Ndeah
-4994,34,27-Feb-04,4,11513,122,Sistemas de Procesamiento de Datos,2001.0,Indeterminado,Ndeah
-5006,34,20-Jul-01,2,11575,123,Matemática,2001.0,Indeterminado,Ndeah
-5008,34,18-Jul-01,2,11575,124,Laboratorio de Computación I,2001.0,Indeterminado,Ndeah
 5011,34,08-Aug-01,2,11641,121,Programación I,2001.0,Indeterminado,Ndeah
-5039,34,16-Jul-01,7,11664,111,Inglés I,2001.0,Indeterminado,Ndeah
-5040,34,26-Nov-01,5,11664,112,Inglés II,2001.0,Indeterminado,Ndeah
-5041,34,08-Aug-01,2,11664,121,Programación I,2001.0,Indeterminado,Ndeah
-5045,34,29-Jul-02,1,11664,121,Programación I,2001.0,Indeterminado,Ndeah
-5053,34,30-Jul-02,2,11664,123,Matemática,2001.0,Indeterminado,Ndeah
-5054,34,08-Oct-02,2,11664,123,Matemática,2001.0,Indeterminado,Ndeah
-5055,34,17-Dec-02,5,11664,123,Matemática,2001.0,Indeterminado,Ndeah
-5056,34,08-Aug-01,2,11664,124,Laboratorio de Computación I,2001.0,Indeterminado,Ndeah
-5057,34,10-Oct-01,6,11664,124,Laboratorio de Computación I,2001.0,Indeterminado,Ndeah
-5058,34,15-Feb-02,2,11664,128,Metodología de la Investigación,2001.0,Indeterminado,Ndeah
-5060,34,15-Mar-02,4,11664,128,Metodología de la Investigación,2001.0,Indeterminado,Ndeah
-5061,34,11-Dec-02,8,11664,209,Legislación,2001.0,Indeterminado,Ndeah
-5062,34,11-Feb-02,7,11672,111,Inglés I,2001.0,Indeterminado,Ndeah
-5063,34,11-Mar-02,6,11672,112,Inglés II,2001.0,Indeterminado,Ndeah
-5064,34,08-Aug-01,5,11672,121,Programación I,2001.0,Indeterminado,Ndeah
-5066,34,14-Mar-02,6,11672,122,Sistemas de Procesamiento de Datos,2001.0,Indeterminado,Ndeah
-5067,34,20-Jul-01,2,11672,123,Matemática,2001.0,Indeterminado,Ndeah
-5068,34,08-Aug-01,8,11672,123,Matemática,2001.0,Indeterminado,Ndeah
-5069,34,18-Jul-01,4,11672,124,Laboratorio de Computación I,2001.0,Indeterminado,Ndeah
-5071,34,16-Jul-01,5,11680,111,Inglés I,2001.0,Indeterminado,Ndeah
-5072,34,26-Nov-01,6,11680,112,Inglés II,2001.0,Indeterminado,Ndeah
-5073,34,08-Aug-01,9,11680,121,Programación I,2001.0,Indeterminado,Ndeah
-5077,34,08-Aug-01,6,11680,124,Laboratorio de Computación I,2001.0,Indeterminado,Ndeah
-5078,34,12-Dec-01,8,11680,125,Programación II,2001.0,Indeterminado,Ndeah
-5079,34,05-Dec-01,7,11680,127,Laboratorio de Computación II,2001.0,Indeterminado,Ndeah
 5105,41,10-Dec-02,7,11753,1,Mantenimiento Industrial I,2001.0,Indeterminado,Ndeah
 5106,41,14-Mar-03,9,11753,2,Electrotecnia,2001.0,Indeterminado,Ndeah
 5107,41,12-Jul-02,2,11753,3,Matemática,2001.0,Indeterminado,Ndeah
@@ -237,84 +103,16 @@
 5124,41,22-Dec-03,8,11753,19,Elementos de Automatización,2001.0,Indeterminado,Ndeah
 5125,41,06-Aug-03,8,11753,20,Aseguramiento de la Calidad,2001.0,Indeterminado,Ndeah
 5126,41,27-May-04,7,11753,21,Pasantía,2001.0,Indeterminado,Ndeah
-5291,84,09-Oct-01,2,11865,101,Álgebra y Geometría(Plan 95),2001.0,Indeterminado,Ndeah
-5292,84,10-Dec-01,9,11865,101,Álgebra y Geometría(Plan 95),2001.0,Indeterminado,Ndeah
-5293,84,10-Aug-01,6,11865,121,Introducción a la Producción Agraria,2001.0,Indeterminado,Ndeah
-5295,84,12-Dec-01,2,11865,123,Instalaciones Agrarias(Plan 95),2001.0,Indeterminado,Ndeah
-5769,84,07-May-02,8,12014,111,Inglés  I,2001.0,Indeterminado,Ndeah
 5879,84,12-Oct-01,2,12061,121,Introducción a la Producción Agraria,2001.0,Indeterminado,Ndeah
 5881,84,14-Dec-01,2,12061,121,Introducción a la Producción Agraria,2001.0,Indeterminado,Ndeah
 5974,84,20-Jul-01,7,12103,121,Introducción a la Producción Agraria,2001.0,Indeterminado,Ndeah
-6159,24,05-Dec-01,1,12165,121,Ingeniería Industrial I,2001.0,Indeterminado,Ndeah
-6160,24,12-Dec-01,4,12165,121,Ingeniería Industrial I,2001.0,Indeterminado,Ndeah
-6161,24,10-Dec-01,8,12165,124,Diseño Industrial,2001.0,Indeterminado,Ndeah
-6162,24,13-Mar-02,4,12165,125,Informática I,2001.0,Indeterminado,Ndeah
-6163,24,26-Nov-01,2,12173,101,Álgebra y Geometría Analítica,2001.0,Indeterminado,Ndeah
-6164,24,03-Dec-01,7,12173,124,Diseño Industrial,2001.0,Indeterminado,Ndeah
-6166,24,13-Mar-02,8,12173,125,Informática I,2001.0,Indeterminado,Ndeah
 6395,24,10-Dec-01,7,12254,124,Diseño Industrial,2001.0,Indeterminado,Ndeah
 6862,24,03-Dec-01,7,12416,124,Diseño Industrial,2001.0,Indeterminado,Ndeah
 6863,41,12-Jul-02,2,12416,3,Matemática,2001.0,Indeterminado,Ndeah
 6865,41,01-Aug-02,9,12416,4,Química,2001.0,Indeterminado,Ndeah
-6866,24,12-Dec-01,4,12424,121,Ingeniería Industrial I,2001.0,Indeterminado,Ndeah
-6867,24,03-Dec-01,8,12424,124,Diseño Industrial,2001.0,Indeterminado,Ndeah
-6868,24,05-Dec-01,8,12424,125,Informática I,2001.0,Indeterminado,Ndeah
 7042,24,20-Dec-02,6,12463,124,Diseño Industrial,2002.0,Indeterminado,Ndeah
 7132,34,31-Jul-02,4,12471,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7133,34,16-Dec-02,7,12472,111,Inglés I,2002.0,Indeterminado,Ndeah
-7134,34,04-Aug-03,6,12472,112,Inglés II,2002.0,Indeterminado,Ndeah
-7135,34,10-Oct-02,4,12472,121,Programación I,2002.0,Indeterminado,Ndeah
-7138,34,06-Mar-03,4,12472,122,Sistemas de Procesamiento de Datos,2002.0,Indeterminado,Ndeah
-7139,34,12-Jul-02,4,12472,123,Matemática,2002.0,Indeterminado,Ndeah
-7140,34,10-Jul-02,4,12472,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7141,34,17-Dec-02,7,12472,125,Programación II,2002.0,Indeterminado,Ndeah
-7142,34,10-Dec-02,4,12472,127,Laboratorio de Computación II,2002.0,Indeterminado,Ndeah
-7216,34,17-Dec-02,8,12480,104,Estadística,2002.0,Indeterminado,Ndeah
-7217,34,09-Dec-02,7,12480,111,Inglés I,2002.0,Indeterminado,Ndeah
-7219,34,10-Oct-02,5,12480,121,Programación I,2002.0,Indeterminado,Ndeah
-7220,34,08-Oct-02,9,12480,123,Matemática,2002.0,Indeterminado,Ndeah
-7222,34,11-Oct-02,8,12480,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7223,34,03-Dec-02,7,12480,125,Programación II,2002.0,Indeterminado,Ndeah
-7224,34,17-Dec-02,3,12480,127,Laboratorio de Computación II,2002.0,Indeterminado,Ndeah
-7225,34,02-Dec-02,8,12480,128,Metodología de la Investigación,2002.0,Indeterminado,Ndeah
-7226,34,10-Mar-03,5,12481,111,Inglés I,2002.0,Indeterminado,Ndeah
-7227,34,04-Aug-03,6,12481,112,Inglés II,2002.0,Indeterminado,Ndeah
-7228,34,10-Oct-02,2,12481,121,Programación I,2002.0,Indeterminado,Ndeah
-7229,34,05-Dec-02,5,12481,121,Programación I,2002.0,Indeterminado,Ndeah
-7230,34,12-Dec-02,2,12481,122,Sistemas de Procesamiento de Datos,2002.0,Indeterminado,Ndeah
-7231,34,19-Dec-02,2,12481,122,Sistemas de Procesamiento de Datos,2002.0,Indeterminado,Ndeah
-7233,34,06-Mar-03,4,12481,122,Sistemas de Procesamiento de Datos,2002.0,Indeterminado,Ndeah
-7234,34,10-Jul-02,5,12481,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7235,34,17-Dec-02,6,12481,125,Programación II,2002.0,Indeterminado,Ndeah
-7237,34,18-Feb-03,5,12481,127,Laboratorio de Computación II,2002.0,Indeterminado,Ndeah
-7238,34,16-Dec-02,7,12481,128,Metodología de la Investigación,2002.0,Indeterminado,Ndeah
-7239,34,17-Dec-03,5,12481,209,Legislación,2002.0,Indeterminado,Ndeah
-7240,34,15-Jul-03,4,12481,232,Organización Empresarial,2002.0,Indeterminado,Ndeah
 7305,34,10-Jul-02,4,12487,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7307,34,30-Jul-02,2,12488,123,Matemática,2002.0,Indeterminado,Ndeah
-7309,34,31-Jul-02,2,12488,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7328,34,03-Mar-03,2,12490,111,Inglés I,2002.0,Indeterminado,Ndeah
-7329,34,12-Dec-02,2,12490,121,Programación I,2002.0,Indeterminado,Ndeah
-7331,34,06-Mar-03,2,12490,121,Programación I,2002.0,Indeterminado,Ndeah
-7332,34,13-Mar-03,4,12490,121,Programación I,2002.0,Indeterminado,Ndeah
-7334,34,31-Jul-02,2,12490,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7335,34,21-Feb-03,8,12490,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7336,34,02-Dec-02,8,12490,128,Metodología de la Investigación,2002.0,Indeterminado,Ndeah
-7337,34,11-Dec-02,8,12490,209,Legislación,2002.0,Indeterminado,Ndeah
-7338,34,29-Jul-02,4,12491,121,Programación I,2002.0,Indeterminado,Ndeah
-7339,34,12-Jul-02,2,12491,123,Matemática,2002.0,Indeterminado,Ndeah
-7340,34,30-Jul-02,6,12491,123,Matemática,2002.0,Indeterminado,Ndeah
-7341,34,10-Jul-02,7,12491,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7342,34,29-Jul-02,2,12492,121,Programación I,2002.0,Indeterminado,Ndeah
-7343,34,10-Oct-02,4,12492,121,Programación I,2002.0,Indeterminado,Ndeah
-7344,34,10-Jul-02,7,12492,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-7345,34,03-Dec-02,7,12492,125,Programación II,2002.0,Indeterminado,Ndeah
-7346,34,10-Dec-02,3,12492,127,Laboratorio de Computación II,2002.0,Indeterminado,Ndeah
-7347,34,17-Dec-02,7,12492,127,Laboratorio de Computación II,2002.0,Indeterminado,Ndeah
-7348,34,09-Dec-02,2,12492,128,Metodología de la Investigación,2002.0,Indeterminado,Ndeah
-7349,34,16-Dec-02,6,12492,128,Metodología de la Investigación,2002.0,Indeterminado,Ndeah
-7350,34,11-Dec-02,6,12492,209,Legislación,2002.0,Indeterminado,Ndeah
-7385,34,09-Dec-02,8,12494,111,Inglés I,2002.0,Indeterminado,Ndeah
 7386,34,29-Jul-02,5,12495,121,Programación I,2002.0,Indeterminado,Ndeah
 7387,34,31-Jul-02,7,12495,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
 7388,34,06-May-03,7,12495,127,Laboratorio de Computación II,2002.0,Indeterminado,Ndeah
@@ -323,8 +121,6 @@
 7551,84,11-Jul-02,2,12508,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
 7552,84,09-Oct-02,4,12508,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
 7553,84,18-Dec-02,8,12508,122,Producción Agraria I,2002.0,Indeterminado,Ndeah
-7977,24,20-Dec-02,6,12528,124,Diseño Industrial,2002.0,Indeterminado,Ndeah
-7978,24,08-May-03,5,12528,125,Informática I,2002.0,Indeterminado,Ndeah
 8000,24,20-Dec-02,7,12532,124,Diseño Industrial,2002.0,Indeterminado,Ndeah
 8079,41,11-Mar-03,6,12549,1,Mantenimiento Industrial I,2002.0,Indeterminado,Ndeah
 8080,41,12-Jul-02,7,12549,3,Matemática,2002.0,Indeterminado,Ndeah
@@ -377,18 +173,9 @@
 8136,41,28-Jul-04,8,12559,16,"Seguridad, Higiene y Protección Ambiental",2002.0,Indeterminado,Ndeah
 8137,41,12-Dec-03,9,12559,18,Costos y Control de Gestión,2002.0,Indeterminado,Ndeah
 8138,41,03-May-04,8,12559,19,Elementos de Automatización,2002.0,Indeterminado,Ndeah
-8145,24,20-Dec-02,8,12567,124,Diseño Industrial,2002.0,Indeterminado,Ndeah
-8146,24,19-Dec-02,8,12567,125,Informática I,2002.0,Indeterminado,Ndeah
-8423,34,12-Mar-03,7,12586,104,Estadística,2002.0,Indeterminado,Ndeah
-8424,34,10-Mar-03,9,12586,111,Inglés I,2002.0,Indeterminado,Ndeah
-8425,34,13-Mar-03,9,12586,121,Programación I,2002.0,Indeterminado,Ndeah
-8426,34,06-Mar-03,9,12586,122,Sistemas de Procesamiento de Datos,2002.0,Indeterminado,Ndeah
-8427,34,14-Mar-03,7,12586,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-8428,34,03-Mar-03,2,12589,111,Inglés I,2002.0,Indeterminado,Ndeah
-8430,34,14-Mar-03,7,12589,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-8431,34,11-Dec-02,7,12589,209,Legislación,2002.0,Indeterminado,Ndeah
 8523,84,09-Oct-02,2,12598,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
 8561,32,19-Feb-03,6,12601,121,Industrias Alimentarias I,2002.0,Indeterminado,Ndeah
+8598,32,19-Dec-02,8,12604,126,Física,2002.0,Indeterminado,Ndeah
 8762,118,21-Dec-06,4,12615,1,Establecimientos Rurales,2006.0,Indeterminado,Ndeah
 8765,118,22-Dec-06,5,12615,3,Construcciones Civiles,2006.0,Indeterminado,Ndeah
 8767,118,26-Feb-07,6,12615,4,Establecimientos Industriales,2006.0,Indeterminado,Ndeah
@@ -405,33 +192,19 @@
 9115,84,17-Mar-03,2,12635,101,Álgebra y Geometría(Plan 95),2002.0,Indeterminado,Ndeah
 9116,84,12-Jul-02,4,12635,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
 9117,84,20-Dec-02,3,12635,122,Producción Agraria I,2002.0,Indeterminado,Ndeah
-9280,84,12-Jul-02,7,12642,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
-9281,84,24-Mar-04,8,12642,122,Producción Agraria I,2002.0,Indeterminado,Ndeah
-9282,84,07-May-04,5,12642,123,Instalaciones Agrarias(Plan 95),2002.0,Indeterminado,Ndeah
 9453,84,11-Jul-02,2,12651,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
 9589,84,11-Jul-02,2,12655,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
 9590,84,01-Aug-02,2,12655,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
 9679,41,01-Aug-02,9,12659,4,Química,2002.0,Indeterminado,Ndeah
 9680,84,09-Oct-02,6,12660,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
+9732,32,05-Mar-03,3,12665,121,Industrias Alimentarias I,2002.0,Indeterminado,Ndeah
+9736,32,13-Mar-03,5,12665,126,Física,2002.0,Indeterminado,Ndeah
 9752,84,01-Aug-02,2,12667,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
 9753,41,10-Jul-02,9,12669,4,Química,2002.0,Indeterminado,Ndeah
-9754,32,30-Jul-02,10,12670,123,Matemática General,2002.0,Indeterminado,Ndeah
 9798,41,01-Aug-02,8,12675,4,Química,2002.0,Indeterminado,Ndeah
 9810,41,10-Jul-02,9,12677,4,Química,2002.0,Indeterminado,Ndeah
 9812,41,01-Aug-02,9,12678,4,Química,2002.0,Indeterminado,Ndeah
 9813,41,20-Dec-02,5,12678,8,Sistemas de Representación,2002.0,Indeterminado,Ndeah
-9815,34,06-Oct-03,6,12679,111,Inglés I,2002.0,Indeterminado,Ndeah
-9816,34,15-Dec-03,5,12679,112,Inglés II,2002.0,Indeterminado,Ndeah
-9819,34,05-Dec-02,2,12679,121,Programación I,2002.0,Indeterminado,Ndeah
-9820,34,12-Dec-02,2,12679,121,Programación I,2002.0,Indeterminado,Ndeah
-9822,34,06-Mar-03,5,12679,121,Programación I,2002.0,Indeterminado,Ndeah
-9831,34,26-Jul-05,4,12679,123,Matemática,2002.0,Indeterminado,Ndeah
-9832,34,31-Jul-02,4,12679,124,Laboratorio de Computación I,2002.0,Indeterminado,Ndeah
-9835,34,01-Mar-06,2,12679,125,Programación II,2002.0,Indeterminado,Ndeah
-9837,34,26-Apr-06,7,12679,125,Programación II,2002.0,Indeterminado,Ndeah
-9840,34,16-Dec-03,5,12679,127,Laboratorio de Computación II,2002.0,Indeterminado,Ndeah
-9841,34,16-Dec-02,6,12679,128,Metodología de la Investigación,2002.0,Indeterminado,Ndeah
-9842,34,11-Dec-02,6,12679,209,Legislación,2002.0,Indeterminado,Ndeah
 9873,41,06-May-03,8,12681,1,Mantenimiento Industrial I,2002.0,Indeterminado,Ndeah
 9874,41,09-Dec-05,6,12681,2,Electrotecnia,2002.0,Indeterminado,Ndeah
 9875,41,30-Jul-02,4,12681,3,Matemática,2002.0,Indeterminado,Ndeah
@@ -455,16 +228,7 @@
 9893,41,09-Jun-06,4,12681,21,Pasantía,2002.0,Indeterminado,Ndeah
 9982,41,30-Jul-02,2,12689,3,Matemática,1999.0,Indeterminado,Ndeah
 9983,41,01-Aug-02,9,12689,4,Química,1999.0,Indeterminado,Ndeah
-10044,24,28-Feb-06,2,12693,102,Análisis Matemático I,2002.0,Indeterminado,Ndeah
-10046,24,16-Dec-02,4,12693,121,Ingeniería Industrial I,2002.0,Indeterminado,Ndeah
-10047,24,20-Dec-02,8,12693,124,Diseño Industrial,2002.0,Indeterminado,Ndeah
-10048,24,17-Jul-03,6,12693,125,Informática I,2002.0,Indeterminado,Ndeah
 10078,32,11-Mar-03,7,12696,124,Química General,2002.0,Indeterminado,Ndeah
-10079,32,23-Dec-02,7,12697,123,Matemática General,2002.0,Indeterminado,Ndeah
-10101,32,12-Mar-03,2,12701,122,Biología General,2002.0,Indeterminado,Ndeah
-10102,32,23-Dec-02,8,12701,123,Matemática General,2002.0,Indeterminado,Ndeah
-10103,32,20-Dec-02,6,12701,124,Química General,2002.0,Indeterminado,Ndeah
-10105,32,23-Dec-02,7,12702,123,Matemática General,2002.0,Indeterminado,Ndeah
 10107,84,28-Aug-02,0,12705,101,Álgebra y Geometría(Plan 95),2002.0,Indeterminado,Ndeah
 10108,84,28-Aug-02,0,12705,102,Análisis Matemático,2002.0,Indeterminado,Ndeah
 10109,84,28-Aug-02,0,12705,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
@@ -473,45 +237,10 @@
 10115,84,16-Jul-03,2,12705,204,Probabilidad y Estadística(Plan 95),2002.0,Indeterminado,Ndeah
 10116,41,08-Oct-02,4,12706,4,Química,2002.0,Indeterminado,Ndeah
 10218,84,11-Oct-02,3,12713,121,Introducción a la Producción Agraria,2002.0,Indeterminado,Ndeah
-10284,24,06-Aug-03,7,12719,204,Probabilidad y Estadística,2002.0,Indeterminado,Ndeah
-10285,31,19-Feb-02,4,12719,119,Taller de Sistemas de Representación (Elec.),2002.0,Indeterminado,Ndeah
-10286,81,07-Oct-98,4,12719,121,Análisis Matemático,2002.0,Indeterminado,Ndeah
-10287,81,05-Aug-98,5,12719,122,Química,2002.0,Indeterminado,Ndeah
-10288,81,15-Jul-98,6,12719,123,Álgebra,2002.0,Indeterminado,Ndeah
-10289,81,09-Dec-98,2,12719,127,Informática I,2002.0,Indeterminado,Ndeah
-10290,81,16-Dec-98,2,12719,127,Informática I,2002.0,Indeterminado,Ndeah
 10291,24,20-Dec-02,5,12720,124,Diseño Industrial,2002.0,Indeterminado,Ndeah
-10331,24,17-Dec-03,6,12725,101,Álgebra y Geometría Analítica,2003.0,Indeterminado,Ndeah
-10332,24,04-Aug-03,7,12725,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-10359,24,14-Jul-03,7,12727,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11073,24,06-Oct-03,2,12763,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11074,24,04-Aug-03,8,12764,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11091,24,14-Jul-03,6,12770,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11092,24,14-Jul-03,9,12771,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11093,24,04-Aug-03,4,12772,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11094,24,08-Aug-06,5,12772,101,Álgebra y Geometría Analítica,2003.0,Indeterminado,Ndeah
-11095,24,28-Mar-06,7,12772,102,Análisis Matemático I,2003.0,Indeterminado,Ndeah
-11096,24,13-Dec-06,8,12772,115,Sistemas de Representación,2003.0,Indeterminado,Ndeah
-11098,24,04-Mar-08,7,12772,203,Análisis Matemático II,2003.0,Indeterminado,Ndeah
-11104,24,04-Aug-03,6,12775,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11144,24,04-Aug-04,1,12784,101,Álgebra y Geometría Analítica,2003.0,Indeterminado,Ndeah
-11150,24,17-Dec-03,8,12784,115,Sistemas de Representación,2003.0,Indeterminado,Ndeah
-11152,24,05-May-05,7,12784,125,Informática I,2003.0,Indeterminado,Ndeah
-11153,24,27-Jul-04,6,12785,102,Análisis Matemático I,2003.0,Indeterminado,Ndeah
-11154,24,23-Feb-04,2,12785,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11155,24,22-Mar-04,5,12785,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11156,24,17-Dec-03,7,12785,115,Sistemas de Representación,2003.0,Indeterminado,Ndeah
-11164,24,13-Feb-06,2,12785,122,Pensamiento Sistémico (Plan 95. Mod.),2003.0,Indeterminado,Ndeah
-11166,24,05-Aug-04,2,12785,125,Informática I,2003.0,Indeterminado,Ndeah
-11167,24,07-Oct-04,7,12785,125,Informática I,2003.0,Indeterminado,Ndeah
-11299,32,07-Oct-03,8,12792,123,Matemática General,2003.0,Indeterminado,Ndeah
-11330,24,06-Oct-03,4,12797,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11332,24,14-Jul-03,6,12798,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11435,32,05-Aug-03,7,12803,123,Matemática General,2003.0,Indeterminado,Ndeah
-11436,32,07-Aug-03,9,12803,124,Química General,2003.0,Indeterminado,Ndeah
-11437,32,14-Jul-03,5,12804,122,Biología General,2003.0,Indeterminado,Ndeah
-11438,32,15-Jul-03,7,12804,123,Matemática General,2003.0,Indeterminado,Ndeah
-11439,32,05-Aug-03,5,12804,124,Química General,2003.0,Indeterminado,Ndeah
+10381,32,04-Aug-03,7,12730,122,Biología General,2003.0,Indeterminado,Ndeah
+10385,32,15-Jul-03,8,12730,124,Química General,2003.0,Indeterminado,Ndeah
+10386,32,18-Dec-03,7,12730,126,Física,2003.0,Indeterminado,Ndeah
 11444,84,16-Jul-03,2,12810,121,Introducción a la Producción Agraria,2003.0,Indeterminado,Ndeah
 11546,41,15-Jul-03,7,12822,1,Mantenimiento Industrial I,2002.0,Indeterminado,Ndeah
 11547,41,18-Jul-03,7,12822,2,Electrotecnia,2002.0,Indeterminado,Ndeah
@@ -523,43 +252,9 @@
 11553,41,04-Aug-03,4,12822,17,Inglés,2002.0,Indeterminado,Ndeah
 11554,41,08-Aug-03,4,12822,17,Inglés,2002.0,Indeterminado,Ndeah
 11555,41,06-Aug-03,7,12822,20,Aseguramiento de la Calidad,2002.0,Indeterminado,Ndeah
-11556,32,24-Mar-04,7,12823,121,Industrias Alimentarias I,2003.0,Indeterminado,Ndeah
-11557,32,04-Aug-03,2,12823,122,Biología General,2003.0,Indeterminado,Ndeah
-11558,32,05-Aug-03,2,12823,123,Matemática General,2003.0,Indeterminado,Ndeah
-11559,32,07-Oct-03,2,12823,123,Matemática General,2003.0,Indeterminado,Ndeah
-11560,32,07-Aug-03,2,12823,124,Química General,2003.0,Indeterminado,Ndeah
-11562,32,24-Feb-04,2,12823,124,Química General,2003.0,Indeterminado,Ndeah
-11612,24,06-Oct-03,7,12826,110,Ingeniería y Sociedad,2003.0,Indeterminado,Ndeah
-11613,32,24-Feb-04,6,12828,124,Química General,2003.0,Indeterminado,Ndeah
-11614,32,29-Mar-04,4,12828,125,Economía General,2003.0,Indeterminado,Ndeah
 11615,32,24-Feb-04,4,12831,124,Química General,2003.0,Indeterminado,Ndeah
-11616,32,29-Sep-03,7,12833,123,Matemática General,2003.0,Indeterminado,Ndeah
-11617,32,24-Feb-04,7,12833,124,Química General,2003.0,Indeterminado,Ndeah
-11618,32,29-Mar-04,6,12833,125,Economía General,2003.0,Indeterminado,Ndeah
-11619,32,29-Mar-04,5,12835,125,Economía General,2003.0,Indeterminado,Ndeah
-11620,32,29-Sep-03,9,12838,122,Biología General,2003.0,Indeterminado,Ndeah
-11621,32,24-Feb-04,9,12838,124,Química General,2003.0,Indeterminado,Ndeah
-11622,32,29-Mar-04,7,12838,125,Economía General,2003.0,Indeterminado,Ndeah
-11623,32,07-Oct-03,9,12842,123,Matemática General,2003.0,Indeterminado,Ndeah
-11624,32,24-Feb-04,5,12842,124,Química General,2003.0,Indeterminado,Ndeah
-11774,32,24-Feb-04,8,12881,124,Química General,2003.0,Indeterminado,Ndeah
-11775,32,29-Mar-04,5,12881,125,Economía General,2003.0,Indeterminado,Ndeah
-11808,32,07-Oct-03,8,12883,123,Matemática General,2003.0,Indeterminado,Ndeah
-11809,32,07-Oct-03,7,12884,123,Matemática General,2003.0,Indeterminado,Ndeah
-11810,32,07-Oct-03,7,12885,123,Matemática General,2003.0,Indeterminado,Ndeah
 11979,84,02-Mar-05,8,12894,121,Introducción a la Producción Agraria,2004.0,Indeterminado,Ndeah
 12101,84,21-Dec-04,2,12898,102,Análisis Matemático,2004.0,Indeterminado,Ndeah
-12254,24,02-Aug-04,2,12905,110,Ingeniería y Sociedad,2004.0,Indeterminado,Ndeah
-12278,24,21-Dec-04,8,12910,102,Análisis Matemático I,2004.0,Indeterminado,Ndeah
-12279,24,15-Dec-04,7,12910,115,Sistemas de Representación,2004.0,Indeterminado,Ndeah
-12281,24,24-Feb-05,8,12910,125,Informática I,2004.0,Indeterminado,Ndeah
-12530,24,20-Feb-07,1,12927,101,Álgebra y Geometría Analítica,2004.0,Indeterminado,Ndeah
-12532,24,02-Aug-05,9,12927,102,Análisis Matemático I,2004.0,Indeterminado,Ndeah
-12535,24,13-Dec-06,7,12927,115,Sistemas de Representación,2004.0,Indeterminado,Ndeah
-12646,32,22-Feb-05,6,12943,123,Matemática General,2004.0,Indeterminado,Ndeah
-12647,32,07-Dec-04,8,12943,124,Química General,2004.0,Indeterminado,Ndeah
-12648,32,06-Dec-04,8,12943,127,Química Inorgánica,2004.0,Indeterminado,Ndeah
-12649,32,09-Dec-05,8,12943,230,Legislación Sanitaria,2004.0,Indeterminado,Ndeah
 12713,41,08-Oct-04,4,12947,2,Electrotecnia,2004.0,Indeterminado,Ndeah
 12714,41,05-Oct-04,2,12947,3,Matemática,2004.0,Indeterminado,Ndeah
 12715,41,07-Dec-04,2,12947,3,Matemática,2004.0,Indeterminado,Ndeah
@@ -872,10 +567,6 @@
 14697,118,26-Jun-07,9,13064,21,Práctica Profesional(Taller),2005.0,Indeterminado,Ndeah
 14766,118,31-Mar-06,4,13069,1,Establecimientos Rurales,2006.0,Indeterminado,Ndeah
 14767,118,25-Apr-06,4,13069,6,Matemática Financiera y Estadística Aplicada,2006.0,Indeterminado,Ndeah
-14769,24,22-Jul-08,6,13070,102,Análisis Matemático I,2006.0,Indeterminado,Ndeah
-14770,24,20-Dec-06,8,13070,115,Sistemas de Representación,2006.0,Indeterminado,Ndeah
-14772,24,10-Aug-07,2,13070,125,Informática I,2006.0,Indeterminado,Ndeah
-14773,24,07-Mar-08,6,13070,125,Informática I,2006.0,Indeterminado,Ndeah
 14779,118,31-Mar-06,4,13075,1,Establecimientos Rurales,2006.0,Indeterminado,Ndeah
 14780,118,25-Apr-06,4,13075,6,Matemática Financiera y Estadística Aplicada,2006.0,Indeterminado,Ndeah
 15126,118,14-Dec-06,9,13097,1,Establecimientos Rurales,2006.0,Indeterminado,Ndeah
@@ -1484,8 +1175,6 @@
 16414,118,21-Jul-06,6,13239,2,"Suelos, Topografia y Planos Civiles",2006.0,Indeterminado,Ndeah
 16415,118,17-Jul-06,7,13239,4,Establecimientos Industriales,2006.0,Indeterminado,Ndeah
 16420,118,23-Apr-07,7,13239,12,Concepto de Derecho y Derecho Constitucional,2006.0,Indeterminado,Ndeah
-16421,24,13-Aug-08,9,13240,110,Ingeniería y Sociedad,2006.0,Indeterminado,Ndeah
-16422,24,12-Dec-07,8,13240,115,Sistemas de Representación,2006.0,Indeterminado,Ndeah
 16435,118,22-Feb-07,8,13243,1,Establecimientos Rurales,2006.0,Indeterminado,Ndeah
 16436,118,21-Jul-06,7,13243,2,"Suelos, Topografia y Planos Civiles",2006.0,Indeterminado,Ndeah
 16437,118,23-Feb-07,4,13243,3,Construcciones Civiles,2006.0,Indeterminado,Ndeah
@@ -1565,9 +1254,6 @@
 16691,118,11-Dec-08,7,13255,19,Informática Aplicada(Taller),2007.0,Indeterminado,Ndeah
 16692,118,09-Dec-08,6,13255,20,Inglés Técnico(Taller),2007.0,Indeterminado,Ndeah
 16693,118,27-Feb-09,10,13255,21,Práctica Profesional(Taller),2007.0,Indeterminado,Ndeah
-16726,5,13-Dec-11,2,13274,101,Álgebra y Geometría Analítica,2007.0,Indeterminado,Ndeah
-16728,5,13-Dec-11,5,13274,111,Inglés I,2007.0,Indeterminado,Ndeah
-16729,5,20-Dec-11,4,13274,212,Inglés II,2007.0,Indeterminado,Ndeah
 16795,24,18-May-07,0,13281,102,Análisis Matemático I,2007.0,Indeterminado,Ndeah
 17016,84,21-Dec-07,2,13299,121,Introducción a la Producción Agraria,2007.0,Indeterminado,Ndeah
 17072,24,22-Jul-08,7,13306,102,Análisis Matemático I,2007.0,Indeterminado,Ndeah
@@ -1743,8 +1429,6 @@
 17384,118,03-Sep-09,9,13342,17,"Impuestos, Tasas y Gravámenes(Seminario)",2007.0,Indeterminado,Ndeah
 17385,118,09-Dec-08,4,13342,20,Inglés Técnico(Taller),2007.0,Indeterminado,Ndeah
 17386,118,27-Apr-07,4,13344,12,Concepto de Derecho y Derecho Constitucional,2007.0,Indeterminado,Ndeah
-17474,24,10-Jul-08,7,13351,110,Ingeniería y Sociedad,2007.0,Indeterminado,Ndeah
-17475,24,19-Dec-07,8,13351,115,Sistemas de Representación,2007.0,Indeterminado,Ndeah
 17570,118,20-Dec-07,8,13356,1,Establecimientos Rurales,2007.0,Indeterminado,Ndeah
 17571,118,28-Sep-07,6,13356,2,"Suelos, Topografia y Planos Civiles",2007.0,Indeterminado,Ndeah
 17572,118,28-Sep-07,7,13356,3,Construcciones Civiles,2007.0,Indeterminado,Ndeah
@@ -1840,8 +1524,6 @@
 17759,118,18-Dec-08,7,13366,19,Informática Aplicada(Taller),2007.0,Indeterminado,Ndeah
 17760,118,24-Feb-09,4,13366,20,Inglés Técnico(Taller),2007.0,Indeterminado,Ndeah
 17761,118,01-Oct-10,8,13366,21,Práctica Profesional(Taller),2007.0,Indeterminado,Ndeah
-17763,24,03-Mar-09,7,13367,102,Análisis Matemático I,2007.0,Indeterminado,Ndeah
-17764,24,05-Mar-08,7,13367,115,Sistemas de Representación,2007.0,Indeterminado,Ndeah
 17818,118,13-Dec-07,9,13372,1,Establecimientos Rurales,2007.0,Indeterminado,Ndeah
 17819,118,28-Sep-07,6,13372,2,"Suelos, Topografia y Planos Civiles",2007.0,Indeterminado,Ndeah
 17820,118,28-Sep-07,9,13372,3,Construcciones Civiles,2007.0,Indeterminado,Ndeah
@@ -2318,14 +2000,6 @@
 18437,125,25-Aug-09,8,13418,18,Gestión de Recursos Humanos,2007.0,Indeterminado,Ndeah
 18438,125,28-Aug-09,10,13418,19,Finanzas y Técnicas Contables,2007.0,Indeterminado,Ndeah
 18439,125,28-Aug-09,9,13418,20,Seminario III y IV de especialización,2007.0,Indeterminado,Ndeah
-18464,34,12-Dec-07,9,13422,111,Inglés I,2007.0,Indeterminado,Ndeah
-18465,34,14-Dec-07,2,13422,121,Programación I,2007.0,Indeterminado,Ndeah
-18466,34,21-Dec-07,1,13422,121,Programación I,2007.0,Indeterminado,Ndeah
-18467,34,14-Dec-07,8,13422,123,Matemática,2007.0,Indeterminado,Ndeah
-18468,34,19-Dec-07,9,13422,124,Laboratorio de Computación I,2007.0,Indeterminado,Ndeah
-18469,34,12-Dec-07,9,13426,111,Inglés I,2007.0,Indeterminado,Ndeah
-18470,34,14-Dec-07,8,13426,123,Matemática,2007.0,Indeterminado,Ndeah
-18471,34,26-Sep-07,4,13427,111,Inglés I,2007.0,Indeterminado,Ndeah
 18472,125,23-Jul-08,9,13429,1,Administración General I,2007.0,Indeterminado,Ndeah
 18473,125,24-Jul-08,9,13429,2,Matemática General,2007.0,Indeterminado,Ndeah
 18475,125,25-Apr-08,10,13429,3,Informática I,2007.0,Indeterminado,Ndeah
@@ -2414,221 +2088,30 @@
 18626,125,14-May-10,8,13441,20,Seminario III y IV de especialización,2007.0,Indeterminado,Ndeah
 18707,84,24-Apr-09,2,13448,121,Introducción a la Producción Agraria,2008.0,Indeterminado,Ndeah
 18709,84,28-Aug-09,6,13448,121,Introducción a la Producción Agraria,2008.0,Indeterminado,Ndeah
-18719,24,17-Mar-08,0,13451,110,Ingeniería y Sociedad,2008.0,Indeterminado,Ndeah
-18720,24,17-Mar-08,0,13451,125,Informática I,2008.0,Indeterminado,Ndeah
-18748,24,09-Dec-09,8,13456,115,Sistemas de Representación,2008.0,Indeterminado,Ndeah
-18749,24,13-Aug-08,8,13456,122,Pensamiento Sistémico,2008.0,Indeterminado,Ndeah
-18750,24,14-May-10,8,13456,125,Informática I,2008.0,Indeterminado,Ndeah
-18751,24,06-Mar-12,4,13456,101,Álgebra y Geometría Analítica,2008.0,Indeterminado,Ndeah
-18752,24,28-Feb-12,9,13456,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-18753,24,17-Mar-08,0,13457,110,Ingeniería y Sociedad,2008.0,Indeterminado,Ndeah
-18754,24,17-Mar-08,0,13457,125,Informática I,2008.0,Indeterminado,Ndeah
-18840,5,09-Dec-08,7,13464,111,Inglés I,2008.0,Indeterminado,Ndeah
-18842,5,27-Feb-09,8,13464,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-18846,5,16-Dec-08,4,13465,111,Inglés I,2008.0,Indeterminado,Ndeah
-18847,5,19-Dec-08,6,13465,125,Sistemas y Organizaciones,2008.0,Indeterminado,Ndeah
-18850,5,03-Mar-09,2,13466,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-18851,5,01-Sep-09,1,13466,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-18852,5,02-Mar-10,7,13466,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-18853,5,09-Dec-08,7,13466,111,Inglés I,2008.0,Indeterminado,Ndeah
-18854,5,13-Feb-09,7,13466,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-18855,5,30-Sep-09,3,13466,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-18856,5,19-Dec-08,8,13466,125,Sistemas y Organizaciones,2008.0,Indeterminado,Ndeah
 18879,84,01-Oct-10,2,13474,121,Introducción a la Producción Agraria,2008.0,Indeterminado,Ndeah
 18881,84,08-Mar-10,2,13474,131,Contabilidad para la Administración(Plan 95 Mod.),2008.0,Indeterminado,Ndeah
-18882,5,09-Dec-08,9,13477,111,Inglés I,2008.0,Indeterminado,Ndeah
-18883,5,19-Dec-08,9,13477,125,Sistemas y Organizaciones,2008.0,Indeterminado,Ndeah
-18884,24,17-Mar-08,0,13477,101,Álgebra y Geometría Analítica,2008.0,Indeterminado,Ndeah
-18885,24,17-Mar-08,0,13477,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-18889,5,27-Sep-11,1,13479,101,Álgebra y Geometría Analítica,2008.0,Indeterminado,Ndeah
-18890,5,29-Mar-11,2,13479,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-18891,5,10-May-11,2,13479,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-18892,5,16-Dec-08,6,13479,111,Inglés I,2008.0,Indeterminado,Ndeah
-18893,5,19-Dec-08,2,13479,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-18894,5,27-Feb-09,2,13479,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-18895,5,02-Oct-09,2,13479,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-18896,5,08-Jul-10,8,13479,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-18897,5,17-Feb-10,3,13479,122,Algoritmos y Estructuras de Datos,2008.0,Indeterminado,Ndeah
-18898,5,03-Mar-10,7,13479,122,Algoritmos y Estructuras de Datos,2008.0,Indeterminado,Ndeah
-18899,5,25-Feb-09,2,13479,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-18900,5,05-Aug-09,2,13479,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-18901,5,30-Sep-09,3,13479,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-18902,5,30-Mar-11,2,13479,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-18904,5,07-Mar-12,5,13479,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-18905,5,13-Feb-09,4,13479,125,Sistemas y Organizaciones,2008.0,Indeterminado,Ndeah
-18906,5,31-Jul-12,4,13479,212,Inglés II,2008.0,Indeterminado,Ndeah
-18907,5,11-May-11,2,13479,228,Sintaxis y Semántica de los Lenguajes,2008.0,Indeterminado,Ndeah
-18908,5,06-Jul-11,5,13479,228,Sintaxis y Semántica de los Lenguajes,2008.0,Indeterminado,Ndeah
-19056,34,18-Dec-08,10,13500,104,Estadística,2008.0,Indeterminado,Ndeah
-19057,34,09-Dec-08,7,13500,111,Inglés I,2008.0,Indeterminado,Ndeah
-19060,34,10-Dec-08,4,13500,122,Sistemas de Procesamiento de Datos,2008.0,Indeterminado,Ndeah
-19061,34,24-Jul-08,7,13500,123,Matemática,2008.0,Indeterminado,Ndeah
-19066,34,16-Dec-08,8,13500,128,Metodología de la Investigación,2008.0,Indeterminado,Ndeah
-19070,5,02-Mar-10,4,13508,101,Álgebra y Geometría Analítica,2008.0,Indeterminado,Ndeah
-19072,5,24-Feb-09,2,13508,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-19076,5,01-Sep-09,6,13508,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-19077,5,09-Dec-08,7,13508,111,Inglés I,2008.0,Indeterminado,Ndeah
-19078,5,13-Feb-09,6,13508,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-19081,5,16-Dec-09,3,13508,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-19082,5,03-Mar-10,3,13508,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-19083,5,12-May-10,4,13508,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-19085,5,19-Dec-08,8,13508,125,Sistemas y Organizaciones,2008.0,Indeterminado,Ndeah
 19091,84,19-Feb-10,6,13512,121,Introducción a la Producción Agraria,2008.0,Indeterminado,Ndeah
 19093,84,10-Mar-10,2,13512,122,Producción Agraria I,2008.0,Indeterminado,Ndeah
 19094,84,12-May-10,4,13512,122,Producción Agraria I,2008.0,Indeterminado,Ndeah
 19095,84,22-Dec-08,6,13512,131,Contabilidad para la Administración(Plan 95 Mod.),2008.0,Indeterminado,Ndeah
 19150,84,23-Feb-09,8,13517,131,Contabilidad para la Administración(Plan 95 Mod.),2008.0,Indeterminado,Ndeah
-19161,5,07-Aug-12,5,13521,101,Álgebra y Geometría Analítica,2008.0,Indeterminado,Ndeah
-19162,5,16-Dec-08,8,13521,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-19163,5,09-Dec-08,8,13521,111,Inglés I,2008.0,Indeterminado,Ndeah
-19165,5,27-Feb-09,8,13521,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-19166,5,03-Mar-10,6,13521,122,Algoritmos y Estructuras de Datos,2008.0,Indeterminado,Ndeah
-19167,5,02-Sep-09,4,13521,123,Arquitectura de Computadoras,2008.0,Indeterminado,Ndeah
-19168,5,12-Dec-08,7,13521,125,Sistemas y Organizaciones,2008.0,Indeterminado,Ndeah
-19169,5,06-Mar-12,6,13521,212,Inglés II,2008.0,Indeterminado,Ndeah
-19170,5,28-Sep-11,6,13521,227,Análisis de Sistemas,2008.0,Indeterminado,Ndeah
-19171,5,09-Mar-11,9,13521,228,Sintaxis y Semántica de los Lenguajes,2008.0,Indeterminado,Ndeah
-19172,5,17-Dec-10,6,13521,230,Sistemas Operativos,2008.0,Indeterminado,Ndeah
 19205,84,22-Dec-08,8,13525,131,Contabilidad para la Administración(Plan 95 Mod.),2008.0,Indeterminado,Ndeah
-19206,5,04-Aug-09,4,13526,101,Álgebra y Geometría Analítica,2008.0,Indeterminado,Ndeah
-19207,5,09-Dec-08,2,13526,111,Inglés I,2008.0,Indeterminado,Ndeah
-19208,5,24-Apr-09,9,13526,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-19209,5,27-Feb-09,5,13526,125,Sistemas y Organizaciones,2008.0,Indeterminado,Ndeah
-19210,24,16-Dec-08,9,13526,102,Análisis Matemático I,2008.0,Indeterminado,Ndeah
-19211,5,06-Mar-12,2,13527,101,Álgebra y Geometría Analítica,2008.0,Indeterminado,Ndeah
-19215,5,06-Jul-10,7,13527,111,Inglés I,2008.0,Indeterminado,Ndeah
-19216,5,04-Sep-09,7,13527,121,Matemática Discreta,2008.0,Indeterminado,Ndeah
-19217,5,26-Feb-09,8,13527,122,Algoritmos y Estructuras de Datos,2008.0,Indeterminado,Ndeah
-19218,5,19-Dec-08,7,13527,125,Sistemas y Organizaciones,2008.0,Indeterminado,Ndeah
-19219,5,29-Mar-11,7,13527,212,Inglés II,2008.0,Indeterminado,Ndeah
-19220,5,30-Mar-11,7,13527,228,Sintaxis y Semántica de los Lenguajes,2008.0,Indeterminado,Ndeah
-19544,5,10-Dec-09,7,13551,111,Inglés I,2009.0,Indeterminado,Ndeah
-19545,5,07-Aug-09,9,13551,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-19547,5,02-Mar-10,6,13553,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-19548,5,15-Dec-09,5,13553,111,Inglés I,2009.0,Indeterminado,Ndeah
-19549,5,05-Mar-10,2,13553,121,Matemática Discreta,2009.0,Indeterminado,Ndeah
-19551,5,17-Feb-10,6,13553,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
-19552,5,04-Sep-09,7,13553,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-19574,5,28-Aug-09,7,13558,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-19575,5,28-Aug-09,7,13559,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-19595,5,10-May-11,2,13562,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
-19596,5,06-Mar-12,4,13562,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
-19597,5,03-Aug-10,5,13562,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-19598,5,26-Sep-12,2,13562,110,Ingeniería y Sociedad,2009.0,Indeterminado,Ndeah
-19600,5,05-Mar-10,6,13562,121,Matemática Discreta,2009.0,Indeterminado,Ndeah
-19601,5,29-Feb-12,6,13562,122,Algoritmos y Estructuras de Datos,2009.0,Indeterminado,Ndeah
-19602,5,02-Mar-11,4,13562,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
-19603,5,07-Aug-09,2,13562,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-19604,5,12-Mar-10,6,13562,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-19659,24,10-Dec-09,2,13568,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-19661,24,26-Aug-09,7,13568,110,Ingeniería y Sociedad,2009.0,Indeterminado,Ndeah
-19662,24,02-Sep-09,9,13568,122,Pensamiento Sistémico,2009.0,Indeterminado,Ndeah
-19681,5,06-Mar-12,2,13574,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
-19684,5,29-Sep-09,2,13574,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-19686,5,28-Sep-10,5,13574,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-19688,5,10-Dec-09,7,13574,111,Inglés I,2009.0,Indeterminado,Ndeah
-19692,5,07-Jul-10,6,13574,122,Algoritmos y Estructuras de Datos,2009.0,Indeterminado,Ndeah
-19694,5,17-Feb-10,3,13574,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
-19695,5,03-Mar-10,4,13574,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
-19696,5,04-Sep-09,7,13574,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-19698,5,01-Mar-11,8,13574,212,Inglés II,2009.0,Indeterminado,Ndeah
+19676,5,20-Apr-09,0,13573,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
+19677,5,20-Apr-09,0,13573,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
+19678,5,20-Apr-09,0,13573,126,Física I,2009.0,Indeterminado,Ndeah
 19700,84,14-Dec-09,4,13575,131,Contabilidad para la Administración(Plan 95 Mod.),2009.0,Indeterminado,Ndeah
-19728,5,10-May-11,5,13578,111,Inglés I,2009.0,Indeterminado,Ndeah
-19729,5,04-Mar-11,9,13578,121,Matemática Discreta,2009.0,Indeterminado,Ndeah
-19733,5,15-Dec-09,6,13580,111,Inglés I,2009.0,Indeterminado,Ndeah
-19738,5,12-May-10,4,13580,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
 19739,84,15-Oct-09,0,13582,131,Contabilidad para la Administración(Plan 95 Mod.),2009.0,Indeterminado,Ndeah
-19779,24,15-Dec-09,5,13585,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-19780,24,30-Sep-09,9,13585,110,Ingeniería y Sociedad,2009.0,Indeterminado,Ndeah
-19781,24,16-Dec-09,7,13585,115,Sistemas de Representación,2009.0,Indeterminado,Ndeah
-19784,5,10-Dec-09,4,13587,111,Inglés I,2009.0,Indeterminado,Ndeah
-19786,5,28-Aug-09,7,13587,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-19905,24,03-Jun-09,0,13597,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
-19906,24,20-Apr-09,0,13597,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-19907,24,10-Feb-10,0,13597,203,Análisis Matemático II,2009.0,Indeterminado,Ndeah
 19960,84,01-Apr-11,2,13603,121,Introducción a la Producción Agraria,2009.0,Indeterminado,Ndeah
 19961,84,30-Sep-11,5,13603,121,Introducción a la Producción Agraria,2009.0,Indeterminado,Ndeah
 20020,84,03-Jun-09,0,13607,121,Introducción a la Producción Agraria,2009.0,Indeterminado,Ndeah
 20074,5,15-Dec-09,6,13611,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
 20075,24,04-Aug-10,8,13611,122,Pensamiento Sistémico,2009.0,Indeterminado,Ndeah
-20078,5,02-Oct-09,2,13614,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-20091,5,15-Dec-09,8,13616,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-20092,5,10-Dec-09,2,13616,111,Inglés I,2009.0,Indeterminado,Ndeah
-20093,5,02-Mar-10,7,13616,111,Inglés I,2009.0,Indeterminado,Ndeah
-20094,5,19-Feb-10,4,13616,121,Matemática Discreta,2009.0,Indeterminado,Ndeah
-20095,5,30-Mar-11,3,13616,122,Algoritmos y Estructuras de Datos,2009.0,Indeterminado,Ndeah
-20096,5,03-Aug-11,7,13616,122,Algoritmos y Estructuras de Datos,2009.0,Indeterminado,Ndeah
-20097,5,17-Feb-10,6,13616,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
-20098,5,04-Sep-09,7,13616,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-20100,5,29-Mar-11,7,13616,212,Inglés II,2009.0,Indeterminado,Ndeah
-20167,5,29-Jul-05,2,13625,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
-20168,5,10-Aug-05,7,13625,115,Sistemas de Representación,2009.0,Indeterminado,Ndeah
-20169,5,05-Dec-05,8,13625,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-20172,5,27-Sep-11,6,13626,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-20173,5,15-Dec-09,7,13626,111,Inglés I,2009.0,Indeterminado,Ndeah
-20175,5,11-Mar-11,7,13626,121,Matemática Discreta,2009.0,Indeterminado,Ndeah
-20176,5,29-Feb-12,6,13626,122,Algoritmos y Estructuras de Datos,2009.0,Indeterminado,Ndeah
-20177,5,12-May-10,5,13626,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
-20178,5,04-Sep-09,7,13626,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-20179,5,11-Jul-12,6,13626,227,Análisis de Sistemas,2009.0,Indeterminado,Ndeah
-20180,31,12-Dec-08,9,13627,110,Ingeniería y Sociedad,2009.0,Indeterminado,Ndeah
-20182,5,28-Feb-12,2,13628,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
-20183,5,06-Mar-12,6,13628,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
-20184,5,15-Dec-09,4,13628,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-20185,5,03-Aug-10,4,13628,111,Inglés I,2009.0,Indeterminado,Ndeah
-20186,5,05-Mar-10,2,13628,121,Matemática Discreta,2009.0,Indeterminado,Ndeah
-20187,5,11-Mar-11,5,13628,121,Matemática Discreta,2009.0,Indeterminado,Ndeah
-20188,5,07-Mar-12,7,13628,122,Algoritmos y Estructuras de Datos,2009.0,Indeterminado,Ndeah
-20189,5,12-May-10,4,13628,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
-20190,5,08-Jul-10,8,13628,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-20221,5,28-Aug-09,7,13631,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-20222,5,08-Jul-10,8,13632,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-20251,5,10-Mar-04,6,13634,101,Álgebra y Geometría Analítica,2009.0,Indeterminado,Ndeah
-20252,5,02-Dec-03,10,13634,102,Análisis Matemático I,2009.0,Indeterminado,Ndeah
-20253,5,04-Aug-03,8,13634,110,Ingeniería y Sociedad,2009.0,Indeterminado,Ndeah
-20254,5,23-Feb-04,7,13634,111,Inglés Técnico I,2009.0,Indeterminado,Ndeah
-20255,5,01-Mar-04,6,13634,121,Matemática Discreta,2009.0,Indeterminado,Ndeah
-20256,5,03-Mar-04,10,13634,122,Algoritmos y Estructuras de Datos,2009.0,Indeterminado,Ndeah
-20257,5,08-Aug-03,9,13634,123,Arquitectura de Computadoras,2009.0,Indeterminado,Ndeah
-20258,5,16-Dec-03,8,13634,124,Química,2009.0,Indeterminado,Ndeah
-20259,5,07-Aug-03,8,13634,125,Sistemas y Organizaciones,2009.0,Indeterminado,Ndeah
-20260,5,23-May-05,8,13634,227,Análisis de Sistemas,2009.0,Indeterminado,Ndeah
-20261,5,01-Mar-05,6,13634,230,Sistemas Operativos,2009.0,Indeterminado,Ndeah
 20264,84,28-Mar-11,4,13635,131,Contabilidad para la Administración(Plan 95 Mod.),2009.0,Indeterminado,Ndeah
-20265,5,29-Mar-11,4,13637,102,Análisis Matemático I,2010.0,Indeterminado,Ndeah
-20266,5,15-Sep-08,6,13637,110,Ingeniería y Sociedad,2010.0,Indeterminado,Ndeah
-20267,5,14-Dec-09,9,13637,111,Inglés I,2010.0,Indeterminado,Ndeah
-20268,5,13-May-11,2,13637,121,Matemática Discreta,2010.0,Indeterminado,Ndeah
-20269,5,07-Mar-12,8,13637,122,Algoritmos y Estructuras de Datos,2010.0,Indeterminado,Ndeah
-20270,5,10-Dec-08,7,13637,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
 20339,84,11-Mar-11,2,13647,121,Introducción a la Producción Agraria,2010.0,Indeterminado,Ndeah
 20340,84,01-Apr-11,4,13647,121,Introducción a la Producción Agraria,2010.0,Indeterminado,Ndeah
 20341,84,28-Mar-11,2,13647,131,Contabilidad para la Administración(Plan 95 Mod.),2010.0,Indeterminado,Ndeah
 20489,84,13-May-11,4,13665,121,Introducción a la Producción Agraria,2010.0,Indeterminado,Ndeah
 20490,84,26-Sep-11,6,13665,131,Contabilidad para la Administración(Plan 95 Mod.),2010.0,Indeterminado,Ndeah
-20491,5,01-Mar-11,2,13666,102,Análisis Matemático I,2010.0,Indeterminado,Ndeah
-20492,5,14-Dec-10,6,13666,111,Inglés I,2010.0,Indeterminado,Ndeah
-20493,5,02-Mar-11,3,13666,122,Algoritmos y Estructuras de Datos,2010.0,Indeterminado,Ndeah
-20494,5,30-Mar-11,3,13666,122,Algoritmos y Estructuras de Datos,2010.0,Indeterminado,Ndeah
-20495,5,08-Jul-10,8,13666,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
-20496,5,08-Jul-10,2,13670,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
-20500,5,16-Jul-10,7,13671,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
-20501,5,08-Jul-10,7,13672,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
-20502,5,29-Mar-11,4,13674,102,Análisis Matemático I,2010.0,Indeterminado,Ndeah
-20503,5,08-Jul-10,8,13674,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
-20504,5,08-Jul-10,8,13676,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
-20505,24,21-Dec-11,7,13676,115,Sistemas de Representación,2010.0,Indeterminado,Ndeah
-20507,5,28-Feb-12,2,13679,101,Álgebra y Geometría Analítica,2010.0,Indeterminado,Ndeah
-20508,5,06-Mar-12,4,13679,101,Álgebra y Geometría Analítica,2010.0,Indeterminado,Ndeah
-20509,5,12-Jul-11,2,13679,102,Análisis Matemático I,2010.0,Indeterminado,Ndeah
-20510,5,02-Aug-11,4,13679,102,Análisis Matemático I,2010.0,Indeterminado,Ndeah
-20511,5,29-Mar-11,8,13679,111,Inglés I,2010.0,Indeterminado,Ndeah
-20512,5,11-Mar-11,5,13679,121,Matemática Discreta,2010.0,Indeterminado,Ndeah
-20513,5,30-Mar-11,3,13679,122,Algoritmos y Estructuras de Datos,2010.0,Indeterminado,Ndeah
-20514,5,01-Aug-12,9,13679,122,Algoritmos y Estructuras de Datos,2010.0,Indeterminado,Ndeah
-20515,5,03-Aug-11,5,13679,123,Arquitectura de Computadoras,2010.0,Indeterminado,Ndeah
-20516,5,08-Jul-10,9,13679,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
-20517,5,10-Aug-12,8,13679,230,Sistemas Operativos,2010.0,Indeterminado,Ndeah
 20564,119,06-Dec-10,8,13688,1,Física,2010.0,Indeterminado,Ndeah
 20566,119,10-May-11,2,13688,2,Matemática,2010.0,Indeterminado,Ndeah
 20567,119,05-Jul-11,5,13688,2,Matemática,2010.0,Indeterminado,Ndeah
@@ -3349,10 +2832,6 @@
 21393,119,08-Aug-12,4,13759,29,Inglés Técnico II,2010.0,Indeterminado,Ndeah
 21394,119,09-May-11,4,13759,30,Informática I,2010.0,Indeterminado,Ndeah
 21395,119,07-Aug-12,4,13759,31,Informática II,2010.0,Indeterminado,Ndeah
-21396,5,01-Mar-11,7,13760,111,Inglés I,2010.0,Indeterminado,Ndeah
-21397,5,08-Jul-10,9,13760,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
-21398,5,10-Mar-11,2,13761,111,Inglés I,2010.0,Indeterminado,Ndeah
-21399,5,02-Mar-11,8,13761,122,Algoritmos y Estructuras de Datos,2010.0,Indeterminado,Ndeah
 21424,119,27-Sep-10,7,13764,1,Física,2010.0,Indeterminado,Ndeah
 21425,119,28-Sep-10,7,13764,2,Matemática,2010.0,Indeterminado,Ndeah
 21426,119,29-Sep-10,8,13764,3,Química,2010.0,Indeterminado,Ndeah
@@ -3381,48 +2860,9 @@
 21449,119,08-Aug-12,4,13764,29,Inglés Técnico II,2010.0,Indeterminado,Ndeah
 21450,119,09-May-11,4,13764,30,Informática I,2010.0,Indeterminado,Ndeah
 21451,119,07-Aug-12,4,13764,31,Informática II,2010.0,Indeterminado,Ndeah
-21452,24,02-Mar-11,6,13767,115,Sistemas de Representación,2010.0,Indeterminado,Ndeah
-21459,5,20-Dec-11,7,13771,111,Inglés I,2011.0,Indeterminado,Ndeah
-21460,5,13-Jul-12,5,13771,121,Matemática Discreta,2011.0,Indeterminado,Ndeah
-21461,5,29-Feb-12,6,13771,122,Algoritmos y Estructuras de Datos,2011.0,Indeterminado,Ndeah
-21462,5,08-Jul-11,8,13771,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21463,5,20-Dec-11,4,13774,111,Inglés I,2011.0,Indeterminado,Ndeah
-21464,5,08-Jul-11,7,13774,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21465,5,06-Mar-12,7,13775,101,Álgebra y Geometría Analítica,2011.0,Indeterminado,Ndeah
-21466,5,20-Dec-11,8,13775,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21467,5,13-Dec-11,7,13775,111,Inglés I,2011.0,Indeterminado,Ndeah
-21468,5,22-Dec-11,6,13775,121,Matemática Discreta,2011.0,Indeterminado,Ndeah
-21469,5,08-Aug-12,6,13775,122,Algoritmos y Estructuras de Datos,2011.0,Indeterminado,Ndeah
-21470,5,09-May-12,7,13775,123,Arquitectura de Computadoras,2011.0,Indeterminado,Ndeah
-21471,5,15-Jul-11,8,13775,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21472,5,05-Aug-11,4,13776,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21477,5,13-Dec-11,9,13782,111,Inglés I,2011.0,Indeterminado,Ndeah
-21478,5,15-Jul-11,7,13782,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21479,5,20-Dec-11,6,13783,111,Inglés I,2011.0,Indeterminado,Ndeah
-21480,5,08-Aug-12,6,13783,122,Algoritmos y Estructuras de Datos,2011.0,Indeterminado,Ndeah
-21481,5,22-Dec-11,7,13783,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21482,5,06-Mar-12,4,13784,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21483,5,13-Dec-11,8,13784,111,Inglés I,2011.0,Indeterminado,Ndeah
-21486,5,15-Jul-11,7,13784,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21499,24,06-Mar-12,2,13788,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21500,24,07-Mar-12,9,13788,110,Ingeniería y Sociedad,2011.0,Indeterminado,Ndeah
-21501,24,09-May-12,8,13788,122,Pensamiento Sistémico,2011.0,Indeterminado,Ndeah
-21523,5,25-Sep-12,2,13797,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21524,5,28-Feb-12,6,13797,111,Inglés I,2011.0,Indeterminado,Ndeah
-21525,5,29-Feb-12,7,13797,122,Algoritmos y Estructuras de Datos,2011.0,Indeterminado,Ndeah
-21527,5,15-Jul-11,7,13797,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21528,5,25-Sep-12,2,13797,212,Inglés II,2011.0,Indeterminado,Ndeah
 21543,123,31-Jul-12,9,13800,1,Matemática,2011.0,Indeterminado,Ndeah
 21544,123,31-Jul-12,8,13800,2,Lingüística,2011.0,Indeterminado,Ndeah
 21546,123,06-Aug-12,8,13800,4,Química General e Inorgánica,2011.0,Indeterminado,Ndeah
-21565,5,08-May-12,7,13805,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21566,5,13-Jul-12,8,13805,121,Matemática Discreta,2011.0,Indeterminado,Ndeah
-21567,5,29-Feb-12,4,13805,122,Algoritmos y Estructuras de Datos,2011.0,Indeterminado,Ndeah
-21568,5,05-Aug-11,8,13805,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21569,5,22-Dec-11,2,13807,121,Matemática Discreta,2011.0,Indeterminado,Ndeah
-21570,5,15-Jul-11,7,13807,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21593,5,06-Mar-12,7,13811,111,Inglés I,2010.0,Indeterminado,Ndeah
-21597,5,10-Aug-12,7,13811,125,Sistemas y Organizaciones,2010.0,Indeterminado,Ndeah
 21598,123,15-Apr-11,0,13814,1,Matemática,2011.0,Indeterminado,Ndeah
 21599,123,12-Jul-11,9,13814,2,Lingüística,2011.0,Indeterminado,Ndeah
 21600,123,15-Apr-11,0,13814,3,Legal 1,2011.0,Indeterminado,Ndeah
@@ -3537,11 +2977,6 @@
 21728,123,30-Jul-12,9,13827,15,Laboratorio I,2011.0,Indeterminado,Ndeah
 21729,123,05-Dec-11,4,13827,22,Prueba de Suficiencia de Utilitarios de Computación,2011.0,Indeterminado,Ndeah
 21730,123,06-Dec-11,4,13827,23,Prueba de Suficiencia de Idioma Extranjero,2011.0,Indeterminado,Ndeah
-21731,5,08-May-12,9,13829,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21732,5,13-Dec-11,7,13829,111,Inglés I,2011.0,Indeterminado,Ndeah
-21733,5,11-May-12,7,13829,121,Matemática Discreta,2011.0,Indeterminado,Ndeah
-21734,5,29-Feb-12,7,13829,122,Algoritmos y Estructuras de Datos,2011.0,Indeterminado,Ndeah
-21735,5,05-Aug-11,9,13829,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
 21736,123,13-Dec-11,8,13831,1,Matemática,2011.0,Indeterminado,Ndeah
 21737,123,12-Jul-11,8,13831,2,Lingüística,2011.0,Indeterminado,Ndeah
 21740,123,15-Dec-11,7,13831,3,Legal 1,2011.0,Indeterminado,Ndeah
@@ -3561,24 +2996,6 @@
 21755,123,06-Dec-11,4,13831,23,Prueba de Suficiencia de Idioma Extranjero,2011.0,Indeterminado,Ndeah
 21756,123,12-Jul-11,5,13832,2,Lingüística,2011.0,Indeterminado,Ndeah
 21759,123,13-Jul-11,7,13832,5,Microbiología General,2011.0,Indeterminado,Ndeah
-21762,5,15-Apr-11,0,13833,101,Álgebra y Geometría Analítica,2011.0,Indeterminado,Ndeah
-21763,5,15-Apr-11,0,13833,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21764,5,20-Dec-11,4,13833,111,Inglés I,2011.0,Indeterminado,Ndeah
-21765,5,22-Dec-11,7,13833,121,Matemática Discreta,2011.0,Indeterminado,Ndeah
-21766,5,25-Aug-11,0,13833,122,Algoritmos y Estructuras de Datos,2011.0,Indeterminado,Ndeah
-21767,5,15-Apr-11,0,13833,123,Arquitectura de Computadoras,2011.0,Indeterminado,Ndeah
-21768,5,15-Apr-11,0,13833,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21769,5,27-Mar-12,0,13833,203,Análisis Matemático II,2011.0,Indeterminado,Ndeah
-21770,5,13-Sep-11,0,13833,227,Análisis de Sistemas,2011.0,Indeterminado,Ndeah
-21771,5,20-Dec-11,2,13834,111,Inglés I,2011.0,Indeterminado,Ndeah
-21772,5,28-Feb-12,2,13834,111,Inglés I,2011.0,Indeterminado,Ndeah
-21773,5,06-Mar-12,4,13834,111,Inglés I,2011.0,Indeterminado,Ndeah
-21774,5,22-Dec-11,6,13834,121,Matemática Discreta,2011.0,Indeterminado,Ndeah
-21775,5,08-Jul-11,7,13834,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21781,5,25-Sep-12,2,13838,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21782,5,06-Mar-12,4,13838,111,Inglés I,2011.0,Indeterminado,Ndeah
-21783,5,09-Mar-12,5,13838,121,Matemática Discreta,2011.0,Indeterminado,Ndeah
-21784,5,08-Jul-11,7,13838,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
 21799,94,26-Sep-11,7,13841,1,Administración I,2011.0,Indeterminado,Ndeah
 21800,94,13-Jul-11,2,13841,2,Cálculo Financiero,2011.0,Indeterminado,Ndeah
 21801,94,03-Aug-11,2,13841,2,Cálculo Financiero,2011.0,Indeterminado,Ndeah
@@ -3639,11 +3056,6 @@
 21879,123,12-Jul-11,2,13853,2,Lingüística,2011.0,Indeterminado,Ndeah
 21880,123,09-Aug-12,8,13853,3,Legal 1,2011.0,Indeterminado,Ndeah
 21881,123,30-Jul-12,2,13853,4,Química General e Inorgánica,2011.0,Indeterminado,Ndeah
-21884,9,18-May-00,0,13854,102,Análisis Matemático I,2011.0,Indeterminado,Ndeah
-21885,9,12-Dec-08,7,13854,110,Ingeniería y Sociedad,2011.0,Indeterminado,Ndeah
-21886,9,30-May-07,6,13854,111,Inglés Técnico I,2011.0,Indeterminado,Ndeah
-21887,9,16-Dec-08,8,13854,207,Química General,2011.0,Indeterminado,Ndeah
-21888,9,01-Mar-11,5,13854,212,Inglés Técnico II,2011.0,Indeterminado,Ndeah
 21896,123,27-Sep-11,9,13859,1,Matemática,2011.0,Indeterminado,Ndeah
 21897,123,12-Jul-11,8,13859,2,Lingüística,2011.0,Indeterminado,Ndeah
 21899,123,29-Sep-11,7,13859,3,Legal 1,2011.0,Indeterminado,Ndeah
@@ -3660,9 +3072,6 @@
 21911,123,30-Jul-12,7,13859,15,Laboratorio I,2011.0,Indeterminado,Ndeah
 21912,123,05-Dec-11,4,13859,22,Prueba de Suficiencia de Utilitarios de Computación,2011.0,Indeterminado,Ndeah
 21913,123,06-Dec-11,4,13859,23,Prueba de Suficiencia de Idioma Extranjero,2011.0,Indeterminado,Ndeah
-21914,5,15-Jul-11,7,13860,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
-21946,5,06-Mar-12,5,13866,111,Inglés I,2011.0,Indeterminado,Ndeah
-21947,5,22-Dec-11,8,13866,125,Sistemas y Organizaciones,2011.0,Indeterminado,Ndeah
 21948,123,27-Sep-11,9,13867,1,Matemática,2011.0,Indeterminado,Ndeah
 21949,123,27-Sep-11,9,13867,2,Lingüística,2011.0,Indeterminado,Ndeah
 21950,123,08-Mar-12,8,13867,3,Legal 1,2011.0,Indeterminado,Ndeah
@@ -3771,9 +3180,6 @@
 22067,123,16-Mar-12,0,13888,1,Matemática,2012.0,Indeterminado,Ndeah
 22068,123,31-Jul-12,7,13888,2,Lingüística,2012.0,Indeterminado,Ndeah
 22070,123,16-Mar-12,0,13888,4,Química General e Inorgánica,2012.0,Indeterminado,Ndeah
-22071,24,08-Aug-12,6,13890,110,Ingeniería y Sociedad,2012.0,Indeterminado,Ndeah
-22080,24,08-Aug-12,9,13908,110,Ingeniería y Sociedad,2012.0,Indeterminado,Ndeah
-22081,24,08-Aug-12,9,13908,122,Pensamiento Sistémico,2012.0,Indeterminado,Ndeah
 22082,119,06-Aug-12,2,13914,1,Física,2012.0,Indeterminado,Ndeah
 22083,119,01-Aug-12,2,13914,3,Química,2012.0,Indeterminado,Ndeah
 22084,119,08-Aug-12,9,13914,4,Organización Industrial y Empresarial,2012.0,Indeterminado,Ndeah
@@ -3782,11 +3188,6 @@
 22087,119,08-Aug-12,9,13915,4,Organización Industrial y Empresarial,2012.0,Indeterminado,Ndeah
 22088,119,28-May-12,0,13915,28,Inglés Técnico I,2012.0,Indeterminado,Ndeah
 22089,119,28-May-12,0,13915,30,Informática I,2012.0,Indeterminado,Ndeah
-22090,5,13-Jul-12,8,13917,125,Sistemas y Organizaciones,2012.0,Indeterminado,Ndeah
-22091,24,01-Aug-12,7,13920,110,Ingeniería y Sociedad,2012.0,Indeterminado,Ndeah
-22092,24,26-Sep-12,2,13920,122,Pensamiento Sistémico,2012.0,Indeterminado,Ndeah
-22093,5,13-Jul-12,7,13921,125,Sistemas y Organizaciones,2012.0,Indeterminado,Ndeah
-22094,5,10-Aug-12,8,13922,125,Sistemas y Organizaciones,2012.0,Indeterminado,Ndeah
 22095,84,13-Jul-12,8,13924,121,Introducción a la Producción Agraria,2012.0,Indeterminado,Ndeah
 22096,84,13-Jul-12,4,13926,121,Introducción a la Producción Agraria,2012.0,Indeterminado,Ndeah
 22097,84,13-Jul-12,2,13927,121,Introducción a la Producción Agraria,2012.0,Indeterminado,Ndeah
@@ -3803,7 +3204,6 @@
 22112,123,06-Aug-12,4,13932,4,Química General e Inorgánica,2012.0,Indeterminado,Ndeah
 22113,119,28-May-12,0,13933,28,Inglés Técnico I,2012.0,Indeterminado,Ndeah
 22114,119,28-May-12,0,13933,30,Informática I,2012.0,Indeterminado,Ndeah
-22118,5,13-Jul-12,7,13937,125,Sistemas y Organizaciones,2012.0,Indeterminado,Ndeah
 22120,119,06-Aug-12,2,13939,1,Física,2012.0,Indeterminado,Ndeah
 22121,119,08-Aug-12,2,13939,3,Química,2012.0,Indeterminado,Ndeah
 22122,119,08-Aug-12,8,13939,4,Organización Industrial y Empresarial,2012.0,Indeterminado,Ndeah
@@ -3836,7 +3236,6 @@
 22150,119,01-Aug-12,2,13965,3,Química,2012.0,Indeterminado,Ndeah
 22151,119,08-Aug-12,8,13965,4,Organización Industrial y Empresarial,2012.0,Indeterminado,Ndeah
 22152,84,13-Jul-12,6,13968,121,Introducción a la Producción Agraria,2012.0,Indeterminado,Ndeah
-22153,5,10-Aug-12,7,13970,125,Sistemas y Organizaciones,2012.0,Indeterminado,Ndeah
 22154,123,31-Jul-12,7,13971,1,Matemática,2012.0,Indeterminado,Ndeah
 22155,123,31-Jul-12,6,13971,2,Lingüística,2012.0,Indeterminado,Ndeah
 22156,123,06-Aug-12,6,13971,4,Química General e Inorgánica,2012.0,Indeterminado,Ndeah
@@ -3849,7 +3248,6 @@
 22164,119,08-Aug-12,7,13976,4,Organización Industrial y Empresarial,2012.0,Indeterminado,Ndeah
 22165,119,08-Aug-12,2,13977,3,Química,2012.0,Indeterminado,Ndeah
 22166,119,08-Aug-12,8,13977,4,Organización Industrial y Empresarial,2012.0,Indeterminado,Ndeah
-22167,5,28-Sep-12,2,13978,125,Sistemas y Organizaciones,2012.0,Indeterminado,Ndeah
 22174,123,07-Aug-12,9,13985,1,Matemática,2012.0,Indeterminado,Ndeah
 22175,123,07-Aug-12,7,13985,2,Lingüística,2012.0,Indeterminado,Ndeah
 22176,123,16-Mar-12,0,13985,4,Química General e Inorgánica,2012.0,Indeterminado,Ndeah
@@ -3871,10 +3269,6 @@
 22193,119,06-Aug-12,2,13995,1,Física,2012.0,Indeterminado,Ndeah
 22194,119,08-Aug-12,2,13995,3,Química,2012.0,Indeterminado,Ndeah
 22195,119,08-Aug-12,7,13995,4,Organización Industrial y Empresarial,2012.0,Indeterminado,Ndeah
-22196,5,16-Mar-12,0,14007,101,Álgebra y Geometría Analítica,2012.0,Indeterminado,Ndeah
-22197,5,16-Mar-12,0,14007,111,Inglés I,2012.0,Indeterminado,Ndeah
-22198,5,16-Mar-12,0,14007,212,Inglés II,2012.0,Indeterminado,Ndeah
-22199,5,03-Aug-12,5,14008,125,Sistemas y Organizaciones,2012.0,Indeterminado,Ndeah
 22200,119,06-Aug-12,2,14009,1,Física,2012.0,Indeterminado,Ndeah
 22201,119,08-Aug-12,2,14009,3,Química,2012.0,Indeterminado,Ndeah
 22202,119,08-Aug-12,10,14009,4,Organización Industrial y Empresarial,2012.0,Indeterminado,Ndeah

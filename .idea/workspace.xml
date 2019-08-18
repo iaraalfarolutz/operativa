@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="809ee695-5b85-4dc2-ac82-501738611de4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ProyectoOperativa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProyectoOperativa.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/CodigosIndustrial.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/CodigosIndustrial.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/CodigosRural.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/CodigosRural.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/ExamenesProcesadosSalida.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/ExamenesProcesadosSalida.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Indeterminados.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Indeterminados.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="184">
+              <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,11 @@
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="255">
+              <caret line="99" column="28" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -56,15 +63,31 @@
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="373">
+              <caret line="362" column="55" selection-start-line="362" selection-start-column="55" selection-end-line="362" selection-end-column="55" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/ExamenesOriginales.csv">
           <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+              <column index="3" width="100" />
+              <column index="4" width="100" />
+              <column index="5" width="100" />
+              <column index="6" width="100" />
+            </state>
           </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="8789">
+              <caret line="517" column="11" selection-start-line="517" selection-start-column="11" selection-end-line="517" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -77,7 +100,23 @@
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="11288">
+              <caret line="664" column="48" selection-start-line="664" selection-start-column="48" selection-end-line="664" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/Indeterminados.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="289">
+              <caret line="3264" column="74" selection-start-line="3264" selection-start-column="74" selection-end-line="3264" selection-end-column="74" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -93,6 +132,9 @@
     <findStrings>
       <find>au</find>
       <find>Ap</find>
+      <find>elec</find>
+      <find>sistemas</find>
+      <find>Industrial</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,11 +145,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Resources/CodigosRural.csv" />
+        <option value="$PROJECT_DIR$/Resources/CodigosIndustrial.csv" />
         <option value="$PROJECT_DIR$/Main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -118,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,10 +211,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17931548" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17931548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,9 +225,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.08346972" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.48608837" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -197,6 +241,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Ausentes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -207,21 +254,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/CodigosSistemas.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Resources/Indeterminados.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="289">
+          <caret line="3264" column="74" selection-start-line="3264" selection-start-column="74" selection-end-line="3264" selection-end-column="74" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/CodigosRural.csv">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="255">
+          <caret line="99" column="28" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/ExamenesProcesadosSalida.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="11288">
+          <caret line="664" column="48" selection-start-line="664" selection-start-column="48" selection-end-line="664" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/CodigosSistemas.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
       <provider editor-type-id="csv-table-editor">
@@ -238,33 +314,42 @@
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="373">
+          <caret line="362" column="55" selection-start-line="362" selection-start-column="55" selection-end-line="362" selection-end-column="55" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/ExamenesOriginales.csv">
       <provider editor-type-id="text-editor" />
       <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Ausentes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/ExamenesProcesadosSalida.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+          <column index="6" width="100" />
         </state>
       </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="8789">
+          <caret line="517" column="11" selection-start-line="517" selection-start-column="11" selection-end-line="517" selection-end-column="11" />
+        </state>
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2656" selection-start-line="2656" selection-end-line="2656" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="184">
+          <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
         </state>
       </provider>
     </entry>
