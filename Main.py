@@ -79,9 +79,9 @@ dfindet.to_csv("Resources/Indeterminados.csv")
 
 '''
 Casi 4000 filas son indeterminado, vamos a tener que analizar por que:
-hay filas de materias mal cargadas (materias que viendo su nombre sabemos que materia es pero que si numero de materia no existe en ningun plan.)
+hay filas de materias mal cargadas (materias que viendo su nombre sabemos que materia es pero que si numero de materia no existe en ningun plan.) dijo que las saquemos
 Fisica con número 1
-HAY 2 MATERIAS CON EL MISMO CODIGO PERO QUE SON DISTINTAS ?!?! 
+HAY 2 MATERIAS CON EL MISMO CODIGO PERO QUE SON DISTINTAS ?? 
 MATERIA 125 EN INDUSTRIAL ES INFORMATICA Y EN SISTEMAS ES SISTEMAS Y ORGANIZACIONES
 228 tambien està en sistemas y agronomìa
 123 sistemas y agronomia
@@ -95,4 +95,6 @@ tambien en el plan de estudios.
 Cualquier materia que empiece con 2000 algo no esta en ningín plan, que les hacemos ?
 209 no esta
 
+
+cualquier materia que no este en ningun plan la volamos porque pueden ser de tecnicaturas o otra cosa
 '''
