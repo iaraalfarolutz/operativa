@@ -58,14 +58,14 @@ materiaInd = materiaIndAUX.drop(materiaIndAUX[materiaIndAUX['materia'].isin(mate
 
 #Aca tenemos un problema, los codigo de materia no son todos iguales
 
-print (materiaRur)
+#print (materiaRur)
 #print (materiaSist)
-print (materiaInd)
+#print (materiaInd)
 
 #Usando las materias distintivas asignamos a los alumnos la carrera a la que pertenecen.
-cond_industrial = df['materia'].isin(materiaInd['materia']) == True
+cond_industrial = df['nombre_de_'].isin(materiaInd['nombre_de_']) == True
 #cond_sistemas = df['materia'].isin(materiaSist['materia']) == True
-cond_rural = df['materia'].isin(materiaRur['materia']) == True
+cond_rural = df['nombre_de_'].isin(materiaRur['nombre_de_']) == True
 df.loc[cond_rural, 'Carrera'] = 'Administracion Rural'
 df.loc[cond_industrial, 'Carrera'] = 'Ingenieria Industrial'
 #df.loc[cond_sistemas, 'Carrera'] = 'Ingenieria de Sistemas'
@@ -126,7 +126,8 @@ df.loc[cond, 'plan'] = 2007
 
 dfNMat = df.groupby('legajo').agg({'nota': 'count',
                                    'plan': 'mean',
-                                   'Carrera': 'first'})
+                                   'Carrera': 'first',
+                                   'ingr': 'first'})
 
 dfNNMat = df[df.nota >= 4].groupby('legajo').agg({'nombre_de_': 'count'})
 #Arreglar variables
@@ -145,7 +146,7 @@ cantInd03 = len(dfInd03)
 cantInd07 = len(dfInd07)
 
 print([cantInd95, cantInd03,cantInd07, cantRur95, cantRur03])
-print(dfJMat)
+#print(dfJMat)
 #creo columna recibido y elimino los nan
 dfJMat['recibido'] = False
 dfJMat.fillna(0, inplace=True)
@@ -180,7 +181,7 @@ def aprobados(x):
 
 #dfJMat['recibido'] = dfJMat.apply(aprobados, axis=1)
 
-df_alumnos_recibidos = df[df['nombre_de_']== "Proyecto Final"]
+df_alumnos_recibidos = df[(df['nombre_de_']== "Proyecto Final") | (df['nombre_de_']== "Seminario Final" )]
 df.loc[df['legajo'].isin(df_alumnos_recibidos['legajo']), 'Recibido'] = True
 alumnos_recibidos_count = len(df[df['nombre_de_'] == "Proyecto Final"].groupby('legajo').count())
 
@@ -192,10 +193,53 @@ df_avg_alumnos = df.groupby('legajo').agg({'nota': 'mean',
 
 dfJMat = pd.merge(dfJMat, df_avg_alumnos, on='legajo', how='inner')
 dfJMat.rename(columns = {'nota': 'promedio'}, inplace=True)
+########################### PARA HACER EL DE MATERIA
+
+#dfMatMean = df.groupby('nombre_de_').agg({'nombre_de_' : 'first',
+#                                          'nota': 'mean',
+#                                          'plan': 'mean',
+#                                          'Carrera': 'first'})
+
+#dfMatMean.rename(columns = {'nombre_de_': 'Materia',
+#                         'nota': 'promedio'},
+#                          inplace=True)
+#print(dfMatMean)
+
+#cond = dfMatMean['Carrera'].str.contains("Indeterminado", regex=False)
+#dfMatMean = dfMatMean.drop(dfMatMean[cond].index)
+
+#sns.relplot(x='promedio', y='Materia', data=dfMatMean, hue="Carrera", size="plan")
+
+
+
+dfTotal = df
+cond = dfTotal['Carrera'].str.contains("Indeterminado", regex=False)
+dfTotal = dfTotal.drop(dfTotal[cond].index)
+dfTotal = dfTotal.sort_values(by=['nombre_de_'])
+dfTotal = dfTotal.head(1500)
+print(dfTotal)
+
+sns.catplot(x="nota", y="nombre_de_" ,dodge=False, kind="box", data=dfTotal)
+
+plt.show()
+
+
+
+
+
+
+
+
+
+
 
 #Intento de grafico de dispersion usando seaborn carrera notas en tiempo
-sns.set(style="darkgrid")
-sns.relplot(x='aprobados', y='promedio', data=dfJMat, hue="Carrera", style="Recibido", size="plan")
+#sns.set(style="darkgrid")
+#sns.relplot(x='aprobados', y='promedio', data=dfJMat, hue="Carrera", style="Recibido", size="plan")
+
+#plt.show()
+
+#sns.relplot(x='aprobados', y='ingr', data=dfJMat, hue="Carrera", style="Recibido", size="plan")
 
 #plt.show()
 
