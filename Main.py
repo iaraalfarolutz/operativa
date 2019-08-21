@@ -211,6 +211,8 @@ dfJMat.rename(columns = {'nota': 'promedio'}, inplace=True)
 #sns.relplot(x='promedio', y='Materia', data=dfMatMean, hue="Carrera", size="plan")
 
 
+################ ACA ADENTRO GRAFICO
+"""""""""""
 
 dfTotal = df[df.Carrera != "Indeterminado"]
 #cond = dfTotal['Carrera'].str.contains("Indeterminado", regex=False)
@@ -219,34 +221,34 @@ dfTotal = df[df.Carrera != "Indeterminado"]
 dfTotal = dfTotal.groupby('nombre_de_').agg({'nota': 'mean',
                                         'plan': 'first',
                                         'nombre_de_': 'first',
-                                        'Carrera': 'first'})
-dfTotal = dfTotal.sort_values(by=['nota'])
-dfTotal = dfTotal.head(20)
-print(dfTotal)
+                                        'Carrera': 'first',
+                                        'legajo':'count'})
 
-sns.relplot(x="nota", y="nombre_de_", hue="Carrera", data=dfTotal, size="plan")
+dfTotal = dfTotal.sort_values(by=['nota'],ascending=False)
+print(dfTotal)
+#sacamos los que tienen menos de 5
+dfTotal = dfTotal[dfTotal['legajo'] > 5]
+
+#comentar edsta linea para el otro grafico
+#dfTotal = dfTotal[dfTotal['plan'] > 1995]
+dfTotal = dfTotal.head(25)
+sns.relplot(x="nota", y="nombre_de_", hue="Carrera", data=dfTotal, size="plan", palette=["#C17B39", "#4C7FB1"])
 
 plt.show()
 
+"""""""""""""""
 
+################ Intento de grafico de dispersion usando seaborn carrera notas en tiempo
 
+sns.set(style="darkgrid")
+sns.relplot(x='aprobados', y='promedio', data=dfJMat, hue="Carrera", style="Recibido", size="plan")
 
+plt.show()
 
+sns.relplot(x='aprobados', y='ingr', data=dfJMat, hue="Carrera", style="Recibido", size="plan")
 
+plt.show()
 
-
-
-
-
-#Intento de grafico de dispersion usando seaborn carrera notas en tiempo
-#sns.set(style="darkgrid")
-#sns.relplot(x='aprobados', y='promedio', data=dfJMat, hue="Carrera", style="Recibido", size="plan")
-
-#plt.show()
-
-#sns.relplot(x='aprobados', y='ingr', data=dfJMat, hue="Carrera", style="Recibido", size="plan")
-
-#plt.show()
 
 #escritura en ExamenesProcesadosSalida
 df.to_csv('Resources/ExamenesProcesadosSalida.csv')
