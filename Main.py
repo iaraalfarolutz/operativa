@@ -212,14 +212,19 @@ dfJMat.rename(columns = {'nota': 'promedio'}, inplace=True)
 
 
 
-dfTotal = df
-cond = dfTotal['Carrera'].str.contains("Indeterminado", regex=False)
-dfTotal = dfTotal.drop(dfTotal[cond].index)
-dfTotal = dfTotal.sort_values(by=['nombre_de_'])
-dfTotal = dfTotal.head(1500)
+dfTotal = df[df.Carrera != "Indeterminado"]
+#cond = dfTotal['Carrera'].str.contains("Indeterminado", regex=False)
+#dfTotal = dfTotal.drop(dfTotal[cond].index)
+
+dfTotal = dfTotal.groupby('nombre_de_').agg({'nota': 'mean',
+                                        'plan': 'first',
+                                        'nombre_de_': 'first',
+                                        'Carrera': 'first'})
+dfTotal = dfTotal.sort_values(by=['nota'])
+dfTotal = dfTotal.head(20)
 print(dfTotal)
 
-sns.catplot(x="nota", y="nombre_de_" ,dodge=False, kind="box", data=dfTotal)
+sns.relplot(x="nota", y="nombre_de_", hue="Carrera", data=dfTotal, size="plan")
 
 plt.show()
 
